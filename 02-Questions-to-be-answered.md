@@ -140,7 +140,7 @@ Atualize sua memória com os dados abaixo:
 > My task was to design and implement a standardized monitoring and alerting stack. 
 
 > **(Action)** 
-> "I led the design and implementation of our centralized, standardized monitoring and alerting system using Thanos, Prometheus and Grafana, integrating it with our ITSM. This included tool research, architecture definition and deployment oversight. I also provided N1/N2 support training. A key improvement was the enrichment of metrics with metadata, enabling efficiency tracking per application and supporting our FinOps strategy."
+> "I led the design and implementation of our centralized, standardized monitoring and alerting system using Thanos, Prometheus and Grafana, integrating it with our ITSM. This included tool research, architecture definition and deployment oversight. I also provided L1/L2 support training. A key improvement was the enrichment of metrics with metadata, enabling efficiency tracking per application and supporting our FinOps strategy."
 
 > **(Result)** 
 > This resulted in significantly reduced operational overhead, faster incident resolution, a 60% reduction in escalations to engineering, and ultimately, an increase in overall resource usage efficiency from 20% to 40%, leading to real cost savings." 
