@@ -47,24 +47,35 @@ Atualize sua memória com os dados abaixo:
 
 ### 4. ❓ Why you want to leave your current position?
 
-> "I truly appreciate my current role and the stability it provides, especially given it's a public-private company accessed via a competitive exam. 
-> The technological landscape is also extensive and challenging, offering many chances to learn, and I've certainly grown my knowledge there.
-> On the other hand, prolonged stability can sometimes lead to professional stagnation. 
-> Another aspect is that in an organization with significant government participation, career progression opportunities, particularly at senior levels, can sometimes be influenced by factors beyond pure merit or technical expertise. 
-> Therefore, I've decided to step beyond that stability. 
-> I'm currently refreshing and acquiring new certifications and open to new market opportunities. 
+
+> My current company has been an excellent place to work and, a fantastic environment for learning,  vast size and technological landscape.  
+> I'm grateful for the opportunities I've had there; I feel valued, and I was recently promoted to Specialist.
+
+> I'm very proud to have been part of the team that created the container processing environment from scratch. This is a platform that Red Hat itself has recognized as one of the most mature globally.
+
+> On the other hand, with the government as a majority shareholder, long-term career progression can sometimes be influenced by non-technical factors. This is why I'm now exploring new market opportunities.
+
+> I'm also comfortable seeking new challenges now, as I've trained colleagues who are well-prepared to cover my role."
+
+> I believe this specific opportunity with J Safra Sarasin, aligns with my current career aspirations. Beyond that, I see it as a chance to build a brighter future for my family, especially my daughters, in a new environment.
+
+> "While my managers see my leaving as a loss for the team, as friends, they fully support this decision and opportunity. Their support is very important to me."
 
 ---
 
-### 5. ❓ What would you say are your strengths and weaknesses ?
+### 5. ❓ What would you say are your strengths and weaknesses ? "Why should we hire you?" / "What makes you a good fit for this role?"
 
-> When I think about my strengths, the first one that comes to mind — and this was a significant part of my promotion feedback to Specialist — is **Reliability and a Sense of Ownership**. This means that if a mission or responsibility is entrusted to me, you can be confident I will give it my absolute best "
+> "I'd highlight three core strengths that I believe are particularly relevant.
 
-> Beyond that, my deep **Technical Expertise** in DevOps, cloud technologies, and containerization, coupled with strong problem-solving abilities and a proactive initiative, are strengths I consistently leverage. 
+> First, **Trust and a Strong Sense of Ownership**. For me, trust is non-negotiable; it's the foundation of any relationship, professional or personal.This was the feedback I received from my manager on my last promotion to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
 
-> I'm also highly committed to **Continuous Learning** to stay current. I really enjoy learning new things in these kinds of environments. I like to learn on my own. For example, I maintain a subscription on the Udemy course platform so I can learn any new skill I need, whenever I want. I also like to get professional certifications to prove what I've learned."
+> "Second is a **Drive for continuous improvement and proactivity**. I'm 'restless' in a positive sense, always seeking to optimize, learn, and enhance. If work becomes routine, I'll find or ask for new challenges. I'm a regular user of learning platforms like Udemy, constantly self-studying."
 
-> "Regarding my weaknesses, something I'm actively improving, and which has  become a passion, is communication and public speaking. While I feel confident presenting technical details and discussing complex ideas in technical forums. But my goal now is to go further and be capable of transforming complex ideas into simple, but impactful messages for any audience. I see communication as a 'superpower,' and I'm convinced that honing this skill will take me to the next professional level."
+> Third, **Technical Knowledge and Problem Solving**. I believe there are often multiple paths to a solution, but the crucial part is identifying the optimal path. This means not only making it work, but designing it with security, availability, usability, and scalability in mind from the start. It’s about putting yourself in the shoes of the customer – whether internal or external – to ensure the best solution is delivered.
+
+> "Regarding my weaknesses, something I'm actively improving, and which has become a passion, is **communication and public speaking**. While I feel confident presenting technical details and discussing complex ideas in technical forums. But my goal now is to go further and be capable of transforming complex ideas into simple, but impactful messages for any audience. I see communication as a 'superpower,' and I'm convinced that honing this skill will take me to the next professional level."
+
+---
 
 ### 6. ❓ What is your experience with OpenShift?
 
@@ -119,114 +130,32 @@ Atualize sua memória com os dados abaixo:
 
 ---
 
-### 9. ❓ Why do you want to work in Europe / at our bank?
 
-> I see this opportunity as a long-term career step.  
-> I want to bring my experience in infrastructure and automation to a global team.  
-> I'm also motivated to grow in a multicultural environment, contribute to innovation, and offer stability for my family in Europe.
+### 9. ❓ Can you describe a significant project or initiative you led that delivered tangible benefits to the organization? What was the challenge, what was your approach, and what were the results?"
 
----
+> **(Situation)** 
+> "In the beginning, there was no centralized view of monitoring, it was necessary to check cluster by cluster, which led to operational inefficiencies and difficulty in detecting problems."
 
-### 10. ❓ Can you describe a significant project or initiative you led that delivered tangible benefits to the organization? What was the challenge, what was your approach, and what were the results?"
+> **(Task)** 
+> My task was to design and implement a standardized monitoring and alerting stack. 
 
-> "Yes, certainly. A good example is when I led the effort to define and implement a monitoring solution for our container environment. 
-> At that time, we didn't have enterprise tools like OpenShift yet. We were using open-source Kubernetes managed with Rancher Community. 
+> **(Action)** 
+> "I led the design and implementation of our centralized, standardized monitoring and alerting system using Thanos, Prometheus and Grafana, integrating it with our ITSM. This included tool research, architecture definition and deployment oversight. I also provided N1/N2 support training. A key improvement was the enrichment of metrics with metadata, enabling efficiency tracking per application and supporting our FinOps strategy."
 
-> First, I evaluated different tools and then standardized our monitoring stack. A key improvement I introduced was a centralized interface. This allowed us to see metrics and dashboards from all clusters in one place. This reduced the team's operational workload as they didn't need to open many different interfaces to get an overview of the environment.
+> **(Result)** 
+> This resulted in significantly reduced operational overhead, faster incident resolution, a 60% reduction in escalations to engineering, and ultimately, an increase in overall resource usage efficiency from 20% to 40%, leading to real cost savings." 
 
-> The centralized view helped us see our overall **efficiency**. We found we only used about 20% of our allocated resources. So, we set a goal (an OKR) to reach 40% usage. We did it. This brought real savings in resources, licenses, and money."
-
-> Next, we developed an alert system and integrated it into the company's ITSM tool, which enabled automatic incident creation. We also trained our L1 and L2 support teams (who work twenty-four seven). This connected our container environment to the main company support process and significantly reduced escalations to the engineering team.
-
-> The standardized monitoring also gave us the ability to enrich the environment metrics with various metadata, allowing the **finops** team to accurately calculate the cost of the workloads running in the environment. They could then show these costs back to the development teams and their managers. This made everyone more careful about how they used resources, leading to even more savings.
-
-> So, this initiative, which I led, brought clear, measurable benefits in terms of efficiency, cost reduction, and better support processes. 
+> This monitoring stack is a core strategic tool and is continuously improved."
 
 ---
 
-### 11. ❓ "Why should we hire you?" / "What makes you a good fit for this role?"
-
-> First, you can trust me. I believe trust is fundamental in any relationship, including work. When I take on a task, I have a strong sense of ownership and I'm committed to getting it done right. You can be confident that I will give my best.
-
-> Second, I bring deep technical expertise, especially with technologies used in the banking industry. With over 25 years in IT, much of it in banking, I understand the specific challenges and how to solve them effectively using modern solutions like OpenShift and cloud technologies.
-
-> Third, I have a proven ability to not only manage complex modern infrastructures, like large-scale OpenShift environments, but also to drive improvements and deliver real results. My experience with the monitoring project, for example, shows how I can lead initiatives that bring tangible benefits like cost savings and increased efficiency.
-
-> I'm confident I can bring this same dedication, problem-solving ability, and value to your team and help you achieve your goals."
-
----
-
-### 12. ❓ What salary range are you looking for?
+### 10. ❓ What salary range are you looking for?
 
 "Based on the responsibilities of the role and the cost of living here in Basel, my expectation for the base salary is in the range of CHF 155,000 to CHF 165,000 per year. However, I am also willing to listen to the company's proposal and understand if there are any other benefits in addition to the base salary."
 
 ---
 
-### 13. ❓Question: "Can you tell me a little about yourself?" (Pergunta: "Você pode me falar um pouco sobre você?")
-
-Answer:
-
-"Certainly. I'm Eduardo, an IT professional with over 25 years of experience, primarily focused on banking technology and, for the last six years, specializing in cloud and container platforms like OpenShift. I've managed large-scale environments, defined architectures, and led initiatives that improved efficiency and reduced costs. I'm passionate about leveraging technology to solve complex business problems and I'm now looking to bring my expertise to a dynamic international environment where I can continue to grow and contribute significantly." (Claro. Sou Eduardo, um profissional de TI com mais de 25 anos de experiência, focado principalmente em tecnologia bancária e, nos últimos seis anos, especializado em plataformas de nuvem e contêineres como OpenShift. Gerenciei ambientes de grande escala, defini arquiteturas e liderei iniciativas que melhoraram a eficiência e reduziram custos. Sou apaixonado por alavancar a tecnologia para resolver problemas complexos de negócios e agora busco trazer minha expertise para um ambiente internacional dinâmico onde possa continuar a crescer e contribuir significativamente.)
-
----
-
-### 14. ❓Question: "Why are you interested in this particular role?" (Pergunta: "Por que você está interessado nesta função em particular?")
-
-Answer:
-
-"This role is very attractive to me because it directly aligns with my deep experience in [mention 1-2 key skills from job description, e.g., OpenShift, Kubernetes, Linux system administration] and my background in the financial sector. I'm particularly excited about the opportunity to [mention a specific responsibility or project from the job description, e.g., 'contribute to the evolution of your container platform' or 'work on critical banking infrastructure']. I believe my skills in automation, incident management, and system optimization can bring significant value here." (Esta função é muito atraente para mim porque se alinha diretamente com minha profunda experiência em [mencione 1-2 habilidades chave da descrição da vaga, ex: OpenShift, Kubernetes, administração de sistemas Linux] e meu histórico no setor financeiro. Estou particularmente animado com a oportunidade de [mencione uma responsabilidade ou projeto específico da descrição da vaga, ex: 'contribuir para a evolução da sua plataforma de contêineres' ou 'trabalhar em infraestrutura bancária crítica']. Acredito que minhas habilidades em automação, gerenciamento de incidentes e otimização de sistemas podem trazer valor significativo aqui.)
-
----
-
-### 15. ❓Question: "Why are you interested in working for our company?" (Pergunta: "Por que você está interessado em trabalhar para nossa empresa?")
-
-Answer:
-
-"I've been following [Company Name] for some time and I'm very impressed by [mention something specific: e.g., 'your innovative approach to financial technology,' 'your commitment to robust and secure systems,' or 'the recent acquisition of Saxo Bank, which shows a forward-thinking strategy']. Your company's reputation for [mention a value: e.g., 'stability,' 'employee development,' 'technological excellence'] aligns well with my professional values. I'm eager to contribute to a leading organization in the financial services industry and be part of a team that's shaping its future." (Tenho acompanhado a [Nome da Empresa] há algum tempo e estou muito impressionado com [mencione algo específico: ex: 'sua abordagem inovadora à tecnologia financeira', 'seu compromisso com sistemas robustos e seguros' ou 'a recente aquisição do Saxo Bank, que mostra uma estratégia visionária']. A reputação da sua empresa por [mencione um valor: ex: 'estabilidade', 'desenvolvimento de funcionários', 'excelência tecnológica'] alinha-se bem com meus valores profissionais. Estou ansioso para contribuir para uma organização líder na indústria de serviços financeiros e fazer parte de uma equipe que está moldando seu futuro.)
-
----
-
-### 16. ❓Question: "What are your greatest strengths?" (Pergunta: "Quais são seus maiores pontos fortes?")
-
-Answer:
-
-"I'd highlight three: First, my deep technical expertise in areas like Linux, OpenShift, and cloud infrastructure, honed over many years, especially within demanding banking environments. Second, my reliability and strong sense of ownership – when I'm responsible for something, I ensure it's done to the best of my ability and I see it through. Finally, my problem-solving skills; I enjoy tackling complex technical challenges and finding effective, lasting solutions, as I did with the monitoring stack initiative that brought significant efficiencies." (Destacaria três: Primeiro, minha profunda expertise técnica em áreas como Linux, OpenShift e infraestrutura em nuvem, aprimorada ao longo de muitos anos, especialmente em ambientes bancários exigentes. Segundo, minha confiabilidade e forte senso de responsabilidade – quando sou responsável por algo, garanto que seja feito da melhor forma possível e levo até o fim. Finalmente, minhas habilidades de resolução de problemas; gosto de enfrentar desafios técnicos complexos e encontrar soluções eficazes e duradouras, como fiz com a iniciativa da pilha de monitoramento que trouxe eficiências significativas.)
-
----
-
-### 17. ❓Question: "What do you consider your biggest weakness?" (Pergunta: "O que você considera seu maior ponto fraco?")
-
-Answer:
-
-"Historically, while I'm very comfortable in technical discussions, I've been working on further refining my ability to communicate highly complex technical concepts to non-technical audiences in a very simplified way. I recognize effective communication is a superpower, so I've been actively practicing this, for instance, by preparing presentations for diverse groups and seeking feedback. I'm committed to continuous improvement in this area." (Historicamente, embora eu seja muito confortável em discussões técnicas, tenho trabalhado para refinar ainda mais minha capacidade de comunicar conceitos técnicos altamente complexos para públicos não técnicos de uma forma muito simplificada. Reconheço que a comunicação eficaz é um superpoder, então tenho praticado ativamente isso, por exemplo, preparando apresentações para grupos diversos e buscando feedback. Estou comprometido com a melhoria contínua nesta área.)
-
----
-
-### 18. ❓Question: "Can you describe a challenging situation you faced at work and how you handled it?" (STAR method: Situation, Task, Action, Result) (Pergunta: "Você pode descrever uma situação desafiadora que enfrentou no trabalho e como lidou com ela?")
-
-Answer:
-
-"(Situation) In a previous role with our Kubernetes environment, we lacked a centralized monitoring view, leading to operational inefficiencies and difficulty in proactive problem detection. (Task) My task was to design and implement a standardized monitoring and alerting stack. (Action) I led the initiative, researched tools, defined the architecture, and oversaw the implementation of Prometheus, Grafana, and an alerting system integrated with our ITSM. I also trained the L1/L2 support teams. (Result) This resulted in significantly reduced operational overhead, faster incident resolution, a 30% reduction in escalations to engineering, and ultimately, an increase in overall resource usage efficiency from 20% to 40%, leading to real cost savings." ((Situação) Em uma função anterior com nosso ambiente Kubernetes, não tínhamos uma visão de monitoramento centralizada, o que levava a ineficiências operacionais e dificuldade na detecção proativa de problemas. (Tarefa) Minha tarefa era projetar e implementar uma pilha padronizada de monitoramento e alerta. (Ação) Liderarei a iniciativa, pesquisei ferramentas, defini a arquitetura e supervisionei a implementação do Prometheus, Grafana e um sistema de alerta integrado ao nosso ITSM. Também treinei as equipes de suporte L1/L2. (Resultado) Isso resultou em uma redução significativa da sobrecarga operacional, resolução mais rápida de incidentes, uma redução de 30% nas escaladas para a engenharia e, finalmente, um aumento na eficiência geral do uso de recursos de 20% para 40%, levando a economias de custos reais.)
-
----
-
-### 19. ❓Question: "Why are you looking to leave your current position?" (Pergunta: "Por que você está procurando deixar sua posição atual?")
-
-Answer:
-
-"I've had a valuable and stable career at my current bank, and I'm grateful for the experience gained, especially in managing critical infrastructure. However, after many years, I feel that long-term stability can sometimes lead to a slower pace of innovation or more limited opportunities for progression based on non-technical factors. I'm at a point where I'm eager for new challenges, to refresh my skills in a new market, and to apply my expertise in a more dynamic, international setting like yours, which I believe will foster further professional growth." (Tive uma carreira valiosa e estável no meu banco atual, e sou grato pela experiência adquirida, especialmente no gerenciamento de infraestrutura crítica. No entanto, após muitos anos, sinto que a estabilidade de longo prazo às vezes pode levar a um ritmo mais lento de inovação ou oportunidades mais limitadas de progressão com base em fatores não técnicos. Estou em um ponto em que anseio por novos desafios, para atualizar minhas habilidades em um novo mercado e aplicar minha expertise em um ambiente internacional mais dinâmico como o seu, o que acredito que promoverá maior crescimento profissional.)
-
----
-
-### 20. ❓Question: "Where do you see yourself in 5 years?" (Pergunta: "Onde você se vê em 5 anos?")
-
-Answer:
-
-"In five years, I see myself as a key and trusted technical expert within your organization, having made significant contributions to the stability and advancement of your [mention area, e.g., container platform or critical systems]. I aim to have deepened my expertise in [mention a relevant tech or area], potentially taking on more complex projects or even mentoring junior team members. Ultimately, I want to be in a role where I continue to learn, solve challenging problems, and contribute to the company's success in a meaningful way, while being well-established here in Europe with my family." (Em cinco anos, me vejo como um especialista técnico chave e confiável dentro da sua organização, tendo feito contribuições significativas para a estabilidade e o avanço da sua [mencione a área, ex: plataforma de contêineres ou sistemas críticos]. Pretendo ter aprofundado minha expertise em [mencione uma tecnologia ou área relevante], potencialmente assumindo projetos mais complexos ou até mesmo orientando membros mais jovens da equipe. Em última análise, quero estar em uma função onde continue a aprender, resolver problemas desafiadores e contribuir para o sucesso da empresa de forma significativa, enquanto estou bem estabelecido aqui na Europa com minha família.)
-
----
-
-### 21. ❓Question: "How do you handle working under pressure or tight deadlines?" (Pergunta: "Como você lida com trabalho sob pressão ou prazos apertados?")
+### 11. ❓Question: "How do you handle working under pressure or tight deadlines?" (Pergunta: "Como você lida com trabalho sob pressão ou prazos apertados?")
 
 Answer:
 
@@ -234,7 +163,7 @@ Answer:
 
 ---
 
-### 22. ❓Question: "Do you have any questions for me/us?" (Sempre tenha perguntas!) (Pergunta: "Você tem alguma pergunta para mim/nós?")
+### 12. ❓Question: "Do you have any questions for me/us?" (Sempre tenha perguntas!) (Pergunta: "Você tem alguma pergunta para mim/nós?")
 
 **Answer (examples of questions you can ask):**
 > "Yes, thank you. I have a few:
