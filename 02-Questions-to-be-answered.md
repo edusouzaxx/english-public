@@ -92,13 +92,36 @@ Atualize sua memória com os dados abaixo:
 
 ### 5. ❓ What would you say are your strengths and weaknesses ? "Why should we hire you?" / "What makes you a good fit for this role?"
 
-> "I'd highlight three core strengths that I believe are particularly relevant.
 
-> First, **Trust and Sense of Ownership**. For me, trust is the foundation of any relationship, professional or personal.And not by chance, this was the focus of the feedback I received on my last promotion at work to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
+> First, **Trust and Sense of Ownership**. For me, trust is the foundation of any relationship, professional or personal.
 
-> "Second is a **Drive for continuous improvement and proactivity**. I'm 'restless' in a positive sense, always seeking to optimize, learn, and enhance. If work becomes routine, I'll find or ask for new challenges. I'm a regular user of learning platforms like Udemy, constantly self-studying."
+> Not by chance, this was the focus of the feedback I received on my last promotion at work to specialist . 
 
-> Third, **Technical Knowledge and Problem Solving**. I believe there are often multiple paths to a solution, but the crucial part is identifying the optimal path. This means not only making it work, but designing it with security, availability, usability, and scalability in mind from the start. It’s about putting yourself in the shoes of the customer – whether internal or external – to ensure the best solution is delivered.
+> It means if you entrust me with a mission or a task, you can sleep peacefully, because I will do my best.
+
+> And even if something goes wrong, you'll be the first to know.
+
+
+
+> "Second, **Continuous improvement**. 
+
+> I'm always looking to optimize, learn and improve something, whether at work or in my personal life
+
+> If work becomes routine, I'll find or ask for new challenges. 
+
+> I'm a regular user of learning platforms like Udemy."
+
+
+> Third, **Technical Knowledge and Problem Solving**. 
+> Without talking about specific technologies.
+> I believe that there are always several ways to solve the same problem.
+> But the crucial part is to identify the best solution. 
+> Is not about making it work in any way, but in the best way. 
+> It's about seeing things from the customer's perspective – to ensure the best solution is delivered.
+> Except in cases of incidents where services need to be restored as quickly as possible. 
+> And even in these cases, it is important to do a good post-mortem to to avoid the same problem in the future.
+
+
 
 > "Regarding my weaknesses, something I'm actively improving, and which has become a passion, is **communication and public speaking**. 
 
