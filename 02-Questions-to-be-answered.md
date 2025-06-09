@@ -113,23 +113,31 @@ Atualize sua memória com os dados abaixo:
 
 
 > Third, **Technical Knowledge and Problem Solving**. 
+
 > Without talking about specific technologies.
+
 > I believe that there are always several ways to solve the same problem.
+
 > But the crucial part is to identify the best solution. 
+
 > Is not about making it work in any way, but in the best way. 
+
 > It's about seeing things from the customer's perspective – to ensure the best solution is delivered.
+
 > Except in cases of incidents where services need to be restored as quickly as possible. 
+
 > And even in these cases, it is important to do a good post-mortem to to avoid the same problem in the future.
 
 
 
-> "Regarding my weaknesses, something I'm actively improving, and which has become a passion, is **communication and public speaking**. 
+> "Regarding my weaknesses, something I'm improving, and which has become a passion, is **communication, presentation and public speaking** skills. 
+
+> I see communication as a 'superpower,' and I think that, improving this skill will take me to the next professional level."
 
 > I feel confident presenting technical details and discussing complex ideas in technical forums. 
 
 > But my goal now is to go further and be capable of transforming complex ideas into simple, but impactful messages for any audience. 
 
-> I see communication as a 'superpower,' and I'm convinced that improving this skill will take me to the next professional level."
 
 ---
 
