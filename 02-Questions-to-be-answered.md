@@ -112,7 +112,7 @@ Atualize sua memória com os dados abaixo:
 > I'm a regular user of learning platforms like Udemy."
 
 
-> Third, **Technical Knowledge and Problem Solving**. 
+> Third, **Technical Expertise and Problem Solving**. 
 
 > Without talking about specific technologies.
 
