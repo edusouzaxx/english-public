@@ -8,7 +8,7 @@ Atualize sua memória com os dados abaixo:
 
 > First of all, thank you so much for inviting me today and for your time. 
 
-> I'd also like to thank you for making the travel arrangements and giving me the opportunity to visit Basel. 
+> I'd also like to thank you for giving me the opportunity to visit Basel. 
 
 > I had the chance to go for a run yesterday morning, and I'm really impressed by how beautiful the city is. 
 
