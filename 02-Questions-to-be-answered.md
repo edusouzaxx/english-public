@@ -126,7 +126,7 @@ Atualize sua memória com os dados abaixo:
 
 > Except in cases of incidents where services need to be restored as quickly as possible. 
 
-> And even in these cases, it is important to do a good post-mortem to to avoid the same problem in the future.
+> And even in these cases, it is important to do a good post-mortem to prevent the same problem from occurring again in the future.
 
 
 
