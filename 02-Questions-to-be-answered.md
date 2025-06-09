@@ -49,7 +49,7 @@ Atualize sua memória com os dados abaixo:
 > In my current employment, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc systems, as well as UNIX systems like Linux, AIX, and Solaris. 
 > This foundation in Linux, was crucial for my success when I transitioned to working with containers and cloud technologies."
 
-> "Over the last six years, my focus has shifted to cloud-native technologies, with a strong emphasis on container processing, specializing in Kubernetes platforms like OpenShift and related cloud technologies, tools and infrastructure.
+> "Over the last six years, i have been working with cloud-native technologies and container processing, specializing in Kubernetes platforms like OpenShift, Rancher and managed platforms like Azure Redhat Openshift, Azure Kubernetes Services , Google Kubernetes Engine and related technologies, tools and infrastructure.
 
 > Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as one of the company's technical points of reference in this domain. 
 
