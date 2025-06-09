@@ -2,6 +2,14 @@ Atualize sua memória com os dados abaixo:
 
 # Part 3: Self-Introduction [revisão]
 
+### 0. ❓ Inicial thanks
+
+> "Good morning / Guten Morgen
+> First of all, thank you so much for inviting me today and for your time. 
+> I'd also like to thank you for making the travel arrangements and giving me the opportunity to visit Basel. 
+> I had the chance to go for a run yesterday morning, and I'm really impressed by how beautiful the city is. 
+> It's a pleasure to be here and meet you all in person."
+
 ### 1. ❓ Tell me about yourself
 
 > Thank you. My name is Eduardo 
