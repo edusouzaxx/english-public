@@ -6,7 +6,7 @@ Atualize sua memória com os dados abaixo:
 
 > Good morning / Guten Morgen
 
-> First of all, thank you so much for inviting me today and for your time. 
+> First of all, thank you so much for inviting me to be here today and for your time. 
 
 > I'd also like to thank you for giving me the opportunity to visit Basel. 
 
