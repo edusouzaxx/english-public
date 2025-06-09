@@ -94,7 +94,7 @@ Atualize sua memória com os dados abaixo:
 
 > "I'd highlight three core strengths that I believe are particularly relevant.
 
-> First, **Trust and Sense of Ownership**. For me, trust is non-negotiable; it's the foundation of any relationship, professional or personal.This was the feedback I received from my manager on my last promotion to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
+> First, **Trust and Sense of Ownership**. For me, trust is the foundation of any relationship, professional or personal.And not by chance, this was the focus of the feedback I received on my last promotion at work to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
 
 > "Second is a **Drive for continuous improvement and proactivity**. I'm 'restless' in a positive sense, always seeking to optimize, learn, and enhance. If work becomes routine, I'll find or ask for new challenges. I'm a regular user of learning platforms like Udemy, constantly self-studying."
 
