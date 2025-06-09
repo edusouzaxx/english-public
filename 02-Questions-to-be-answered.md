@@ -66,9 +66,10 @@ Atualize sua memória com os dados abaixo:
 
 > Banco do Brasil is an excellent place to work and especially to learn, due to its large size and technological landscape.  
 
-> I'm grateful for the opportunities I've had there; I feel valued.
+> I will always be grateful for the opportunities I had there.
 
-> I am very proud to have been part of the team that created the container processing environment from scratch and today we have important workloads running on it, such as PIX (instant payment), the website front end and the intranet, for example. But there are thousands of microservices.
+> I am very proud to have been part of the team that created the container processing environment from scratch.
+>  Today we have important workloads running on it, such as PIX (instant payment), the website front end and the intranet, for example. But there are thousands of microservices.
  
 > A friend who works at Redhat in another country told me a few days ago that they consider this environment, one of the most mature in the world.
 
