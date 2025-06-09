@@ -8,11 +8,12 @@ Atualize sua memória com os dados abaixo:
 
 > First of all, thank you so much for inviting me to be here today and for your time. 
 
+> It's a pleasure to be here and meet you all in person.
+
 > I'd also like to thank you for giving me the opportunity to visit Basel. 
 
 > I had the chance to go for a run yesterday morning, and I'm really impressed by how beautiful the city is. 
 
-> It's a pleasure to be here and meet you all in person.
 
 ### 1. ❓ Tell me about yourself
 
