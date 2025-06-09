@@ -5,16 +5,23 @@ Atualize sua memória com os dados abaixo:
 ### 0. ❓ Inicial thanks
 
 > Good morning / Guten Morgen
+
 > First of all, thank you so much for inviting me today and for your time. 
+
 > I'd also like to thank you for making the travel arrangements and giving me the opportunity to visit Basel. 
+
 > I had the chance to go for a run yesterday morning, and I'm really impressed by how beautiful the city is. 
+
 > It's a pleasure to be here and meet you all in person.
 
 ### 1. ❓ Tell me about yourself
 
 > Thank you. My name is Eduardo 
+
 > I'm 45 years old, married, and a proud father of three daughters. 
+
 > I'm originally from Brazil.
+
 > I'm an IT professional with over 25 years of experience.
 
 ---
@@ -42,14 +49,14 @@ Atualize sua memória com os dados abaixo:
 > This foundation in Linux, was crucial for my success when I transitioned to working with containers and cloud technologies."
 
 > "Over the last six years, my focus has shifted to cloud-native technologies, with a strong emphasis on container processing, specializing in Kubernetes platforms like OpenShift and related cloud technologies, tools and infrastructure.
-> This involves tasks ranging from automating infrastructure provisioning and orchestrating container deployments to implementing monitoring, logging, backup,policies and security strategies within cloud environments."
 
 > Over the past two years, I’ve transitioned into a role as a Specialist in containerized processing infrastructure, serving as the company's technical reference in this domain. 
-> My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
-> I am fequently involved in incident resolution and crisis management. 
-> I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
 
-> "I'm driven to use modern cloud and container tech to build strong, efficient systems that help businesses succeed and innovate."" 
+> My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
+
+> I am fequently involved in incident resolution and crisis management. 
+
+> I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
 
 ---
 
@@ -57,6 +64,7 @@ Atualize sua memória com os dados abaixo:
 
 
 > My current company has been an excellent place to work and, a fantastic environment for learning,  vast size and technological landscape.  
+
 > I'm grateful for the opportunities I've had there; I feel valued, and I was recently promoted to Specialist.
 
 > I'm very proud to have been part of the team that created the container processing environment from scratch. This is a platform that Red Hat itself has recognized as one of the most mature globally.
@@ -75,13 +83,19 @@ Atualize sua memória com os dados abaixo:
 
 > "I'd highlight three core strengths that I believe are particularly relevant.
 
-> First, **Trust and a Strong Sense of Ownership**. For me, trust is non-negotiable; it's the foundation of any relationship, professional or personal.This was the feedback I received from my manager on my last promotion to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
+> First, **Trust and Sense of Ownership**. For me, trust is non-negotiable; it's the foundation of any relationship, professional or personal.This was the feedback I received from my manager on my last promotion to specialist . It means if you entrust me with a mission or a task, you can sleep peacefully.  If something is my responsibility, it gets done, and done well.
 
 > "Second is a **Drive for continuous improvement and proactivity**. I'm 'restless' in a positive sense, always seeking to optimize, learn, and enhance. If work becomes routine, I'll find or ask for new challenges. I'm a regular user of learning platforms like Udemy, constantly self-studying."
 
 > Third, **Technical Knowledge and Problem Solving**. I believe there are often multiple paths to a solution, but the crucial part is identifying the optimal path. This means not only making it work, but designing it with security, availability, usability, and scalability in mind from the start. It’s about putting yourself in the shoes of the customer – whether internal or external – to ensure the best solution is delivered.
 
-> "Regarding my weaknesses, something I'm actively improving, and which has become a passion, is **communication and public speaking**. While I feel confident presenting technical details and discussing complex ideas in technical forums. But my goal now is to go further and be capable of transforming complex ideas into simple, but impactful messages for any audience. I see communication as a 'superpower,' and I'm convinced that honing this skill will take me to the next professional level."
+> "Regarding my weaknesses, something I'm actively improving, and which has become a passion, is **communication and public speaking**. 
+
+> I feel confident presenting technical details and discussing complex ideas in technical forums. 
+
+> But my goal now is to go further and be capable of transforming complex ideas into simple, but impactful messages for any audience. 
+
+> I see communication as a 'superpower,' and I'm convinced that improving this skill will take me to the next professional level."
 
 ---
 
