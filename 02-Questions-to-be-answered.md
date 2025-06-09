@@ -50,7 +50,7 @@ Atualize sua memória com os dados abaixo:
 
 > "Over the last six years, my focus has shifted to cloud-native technologies, with a strong emphasis on container processing, specializing in Kubernetes platforms like OpenShift and related cloud technologies, tools and infrastructure.
 
-> Over the past two years, I’ve transitioned into a role as a Specialist in containerized processing infrastructure, serving as the company's technical reference in this domain. 
+> Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as the company's technical point of reference in this domain. 
 
 > My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
 
