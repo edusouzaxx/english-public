@@ -16,7 +16,7 @@ Atualize sua memória com os dados abaixo:
 
 ### 1. ❓ Tell me about yourself
 
-> Thank you. My name is Eduardo 
+> My name is Eduardo 
 
 > I'm 45 years old, married, and a proud father of three daughters. 
 
