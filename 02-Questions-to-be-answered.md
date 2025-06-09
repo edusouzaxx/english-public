@@ -74,7 +74,7 @@ Atualize sua memória com os dados abaixo:
 
 > On the other hand, the company has the government as its majority shareholder, and therefore, political factors can influence careers, especially at higher levels. And, this is why I'm now exploring new market opportunities.
 
-> I'm also comfortable seeking new challenges now, as I've trained colleagues who are well-prepared to cover my role."
+> And I feel comfortable with that, because I've always been concerned with training people to replace me. This allowed me to advance in my career or move to new opportunities while ensuring minimal disruption for the team and the company.repared to cover my role."
 
 > I believe this specific opportunity with J Safra Sarasin, aligns with my current career aspirations. Beyond that, I see it as a chance to build a brighter future for my family, especially my daughters, in a new environment.
 
