@@ -73,13 +73,20 @@ Atualize sua memória com os dados abaixo:
  
 > A friend who works at Redhat in another country told me a few days ago that they consider this environment, one of the most mature in the world.
 
-> On the other hand, the company has the government as its majority shareholder, and therefore, political factors can influence careers, especially at higher levels. And, this is why I'm now exploring new market opportunities.
+> On the other hand, the company has the government as its majority shareholder, and therefore, political factors can influence careers, especially at higher levels. 
 
-> And I feel comfortable with that, because I've always been concerned with training people to replace me. This allowed me to advance in my career or move to new opportunities while ensuring minimal disruption for the team and the company.repared to cover my role."
+> And that's why I decided to look for new opportunities in the market even giving up the stability that this job offers.
 
-> I believe this specific opportunity with J Safra Sarasin, aligns with my current career aspirations. Beyond that, I see it as a chance to build a brighter future for my family, especially my daughters, in a new environment.
+> And I feel comfortable with that, because I've always been concerned with training people to replace me. 
 
-> "While my managers see my leaving as a loss for the team, as friends, they fully support this decision and opportunity. Their support is very important to me."
+> This allowed me to advance in my career or move to new opportunities ,ensuring minimal impact for the team and for the company.
+
+> "My managers, collegues, see my leaving as a loss, but, as friends, they are supporting me with this decision and opportunity
+> And this support has been important to me.
+
+> I believe this opportunity with J Safra Sarasin, aligns with my current career aspirations. 
+> And better than that, I see it as a chance to change my family's future for the better.
+
 
 ---
 
