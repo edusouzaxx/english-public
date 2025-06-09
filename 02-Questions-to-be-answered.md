@@ -64,13 +64,15 @@ Atualize sua memória com os dados abaixo:
 ### 4. ❓ Why you want to leave your current position?
 
 
-> My current company has been an excellent place to work and, a fantastic environment for learning,  vast size and technological landscape.  
+> Banco do Brasil is an excellent place to work and especially to learn, due to its large size and technological landscape.  
 
-> I'm grateful for the opportunities I've had there; I feel valued, and I was recently promoted to Specialist.
+> I'm grateful for the opportunities I've had there; I feel valued.
 
-> I'm very proud to have been part of the team that created the container processing environment from scratch. This is a platform that Red Hat itself has recognized as one of the most mature globally.
+> I am very proud to have been part of the team that created the container processing environment from scratch and today we have important workloads running on it, such as PIX (instant payment), the website front end and the intranet, for example. But there are thousands of microservices.
+ 
+> A friend who works at Redhat in another country told me a few days ago that they consider this environment, one of the most mature in the world.
 
-> On the other hand, with the government as a majority shareholder, long-term career progression can sometimes be influenced by non-technical factors. This is why I'm now exploring new market opportunities.
+> On the other hand, the company has the government as its majority shareholder, and therefore, political factors can influence careers, especially at higher levels. And, this is why I'm now exploring new market opportunities.
 
 > I'm also comfortable seeking new challenges now, as I've trained colleagues who are well-prepared to cover my role."
 
