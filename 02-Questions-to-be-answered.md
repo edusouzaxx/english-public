@@ -248,22 +248,13 @@ Answer:
 
 
 
-### O que você acha crucial ?
+### What do you consider crucial in a container strategy?
 
-Pra garantir um ambiente seguro, disponível e escalável e ao mesmo tempo suportável acredito que os seguintes pontos são cruciais:
+To ensure a secure, available, scalable, and manageable container environment, I consider the following points crucial:
 
-Padronização
-- Pra garantir escalabidade 
-
-
-Infrastructure as a Code
-
-Automation
-
-Gitops 
-
-Engenharia de plataforma:
-    - Não temos que controlar o que vai entrar no ambiente
-    - Costumamo dizer que nõ somos porteiros 
-    - O que temos que controlar é , como vai entrar
-    - E é aí que a engenharia de plataforma entra
+**Standardization**: Fundamental for consistency, scalability, and operational efficiency.
+**Infrastructure as Code (IaC)**: For automation, reproducibility, and infrastructure versioning.
+**Automation**: Essential for delivery agility, reduction of manual errors, and process optimization.
+**GitOps**: For declarative configuration , robust version control, auditing, and prevention of configuration drift. It also facilitates rollbacks and increases deployment reliability.
+**Platform Engineering**: To empower developers with self-service capabilities by defining how applications are deployed (the "guardrails"), ensuring security, compliance, and efficiency standards, without the platform team needing to control what is deployed (thus avoiding being a "gatekeeper").
+management
