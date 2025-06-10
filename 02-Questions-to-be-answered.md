@@ -242,5 +242,28 @@ Answer:
 > 3.  Como a empresa apoia o desenvolvimento profissional e o aprendizado contínuo de sua equipe técnica?
 > 4.  Como é a cultura da equipe e como os membros da equipe colaboram em projetos?)*
 
+### Agradecimento
+
+"Thank you for your trust and for this opportunity. I'm ready to make a difference here, help J. Safra Sarasin achieve its goals, and grow together."
 
 
+
+### O que você acha crucial ?
+
+Pra garantir um ambiente seguro, disponível e escalável e ao mesmo tempo suportável acredito que os seguintes pontos são cruciais:
+
+Padronização
+- Pra garantir escalabidade 
+
+
+Infrastructure as a Code
+
+Automation
+
+Gitops 
+
+Engenharia de plataforma:
+    - Não temos que controlar o que vai entrar no ambiente
+    - Costumamo dizer que nõ somos porteiros 
+    - O que temos que controlar é , como vai entrar
+    - E é aí que a engenharia de plataforma entra
