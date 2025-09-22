@@ -1065,3 +1065,584 @@ Perfeito! Vamos criar frases no contexto de **família** e continuar exercitando
 
 ---
 
+Ótimo! Agora vamos criar frases no **contexto social**, continuando a exercitar diferentes **tempos verbais** e mantendo o formato com traduções.
+
+---
+
+### Com Traduções (Bloco 1)
+```markdown
+346. **We always enjoy meeting new people at social gatherings.**  
+     _Sempre gostamos de conhecer novas pessoas em encontros sociais._
+
+347. **I met my best friend at a party we both attended last year.**  
+     _Conheci meu melhor amigo em uma festa que ambos participamos no ano passado._
+
+348. **We will host a barbecue this weekend and invite all our friends.**  
+     _Vamos organizar um churrasco neste fim de semana e convidar todos os nossos amigos._
+
+349. **If I had attended the event, I would have met more interesting people.**  
+     _Se eu tivesse participado do evento, teria conhecido pessoas mais interessantes._
+
+350. **She has been organizing charity events to support the local community.**  
+     _Ela tem organizado eventos de caridade para apoiar a comunidade local._
+
+351. **When we were younger, we often spent weekends at local festivals.**  
+     _Quando éramos mais jovens, costumávamos passar os finais de semana em festivais locais._
+
+352. **By the time the conference ends, we’ll have made valuable connections.**  
+     _Até o final da conferência, teremos feito conexões valiosas._
+
+353. **If we plan it well, the fundraiser might attract more attention.**  
+     _Se planejarmos bem, o evento de arrecadação de fundos pode atrair mais atenção._
+
+354. **I will be attending the networking event tomorrow evening.**  
+     _Estarei participando do evento de networking amanhã à noite._
+
+355. **They had been preparing for the big neighborhood celebration all week.**  
+     _Eles estavam se preparando para a grande celebração do bairro durante toda a semana._
+
+356. **We should join the book club to discuss interesting stories with others.**  
+     _Devemos participar do clube do livro para discutir histórias interessantes com outras pessoas._
+
+357. **My colleague often organizes happy hours to encourage team bonding.**  
+     _Meu colega costuma organizar happy hours para incentivar a união da equipe._
+
+358. **The community came together to clean up the park last Saturday.**  
+     _A comunidade se reuniu para limpar o parque no último sábado._
+
+359. **I had never seen such a lively street fair until I moved to this city.**  
+     _Eu nunca tinha visto uma feira de rua tão animada até me mudar para esta cidade._
+
+360. **By next month, we will have participated in several cultural workshops.**  
+     _Até o próximo mês, teremos participado de vários workshops culturais._
+
+361. **My friend loves volunteering at local shelters during the weekends.**  
+     _Meu amigo adora fazer trabalho voluntário em abrigos locais durante os finais de semana._
+
+362. **If we invite more people, the event will be more engaging.**  
+     _Se convidarmos mais pessoas, o evento será mais envolvente._
+
+363. **The club has been encouraging members to share their hobbies and interests.**  
+     _O clube tem incentivado os membros a compartilhar seus hobbies e interesses._
+
+364. **While they were preparing the social event, the guests began arriving early.**  
+     _Enquanto eles preparavam o evento social, os convidados começaram a chegar cedo._
+
+365. **If I hadn’t canceled my plans, I would have joined my friends at the café.**  
+     _Se eu não tivesse cancelado meus planos, teria me juntado aos meus amigos no café._
+
+366. **We are going to attend the art exhibition next Friday evening.**  
+     _Vamos participar da exposição de arte na próxima sexta-feira à noite._
+
+367. **The guests were dancing while the band was playing lively music.**  
+     _Os convidados estavam dançando enquanto a banda tocava músicas animadas._
+
+368. **She will be organizing a community meeting to discuss environmental issues.**  
+     _Ela estará organizando uma reunião comunitária para discutir questões ambientais._
+
+369. **By the time the concert starts, most of the seats will have been taken.**  
+     _Quando o show começar, a maioria dos assentos já terá sido ocupada._
+
+370. **If they plan another public speaking workshop, I’ll definitely join!**  
+     _Se eles organizarem outro workshop sobre habilidades de oratória, com certeza participarei!_
+
+371. **My friends and I have been trying new restaurants every weekend lately.**  
+     _Meus amigos e eu temos experimentado novos restaurantes todo final de semana ultimamente._
+
+372. **Our neighbors hosted a potluck last weekend, and it was amazing.**  
+     _Nossos vizinhos organizaram um jantar colaborativo no último final de semana, e foi incrível._
+
+373. **If we had arrived earlier, we could have found seats in the front row.**  
+     _Se tivéssemos chegado mais cedo, poderíamos ter encontrado lugares na primeira fila._
+
+374. **Let’s join the hiking group to meet like-minded people.**  
+     _Vamos nos juntar ao grupo de trilha para conhecer pessoas com interesses semelhantes._
+
+375. **She had been arranging the venue details before everyone else arrived.**  
+     _Ela estava organizando os detalhes do local antes de todos os outros chegarem._
+
+376. **I’ll be introducing my friends to some of my colleagues at the meet-up.**  
+     _Estarei apresentando meus amigos a alguns colegas no encontro._
+
+377. **The sports club has recently launched new activities for members.**  
+     _O clube esportivo lançou recentemente novas atividades para os membros._
+
+378. **If you call the venue, you might be able to reserve a spot for the dinner.**  
+     _Se você ligar para o local, talvez consiga reservar um lugar para o jantar._
+
+379. **We always celebrate holidays by hosting a potluck with friends and family.**  
+     _Sempre celebramos os feriados organizando um jantar colaborativo com amigos e família._
+
+380. **While the speaker was presenting, the audience was taking notes.**  
+     _Enquanto o palestrante apresentava, a plateia estava fazendo anotações._
+
+381. **The charity event has already raised significant funds for the cause.**  
+     _O evento beneficente já arrecadou fundos significativos para a causa._
+
+382. **If we had brought more food, everyone would have been satisfied.**  
+     _Se tivéssemos trazido mais comida, todos teriam ficado satisfeitos._
+
+383. **The dance group has been practicing for weeks to prepare for the competition.**  
+     _O grupo de dança tem praticado por semanas para se preparar para a competição._
+
+384. **The neighborhood association is planning a cleanup day for next month.**  
+     _A associação do bairro está planejando um mutirão de limpeza para o próximo mês._
+
+385. **By the time the festival ends, the community will have enjoyed a range of activities.**  
+     _Quando o festival terminar, a comunidade terá aproveitado uma variedade de atividades._
+
+386. **If we send out invitations today, more people might attend the event.**  
+     _Se enviarmos os convites hoje, mais pessoas poderão participar do evento._
+
+387. **While everyone was enjoying the outdoor concert, it suddenly started raining.**  
+     _Enquanto todos curtiam o show ao ar livre, começou a chover de repente._
+
+388. **The group had already agreed to split the costs before booking the trip.**  
+     _O grupo já havia concordado em dividir os custos antes de reservar a viagem._
+
+389. **We need to plan fun ice-breaking activities for new members.**  
+     _Precisamos planejar atividades descontraídas para quebrar o gelo com os novos membros._
+
+390. **I’m looking forward to attending the cultural fair this weekend.**  
+     _Estou ansioso para participar da feira cultural neste fim de semana._
+```
+
+---
+
+Ótimo! Vamos fazer um **mix** com frases de **diferentes contextos sugeridos** para praticar. Vou incluir traduções e explorar os tópicos de forma equilibrada.
+
+---
+
+### Com Traduções (Bloco Variado)
+```markdown
+#### Reuniões e Apresentações (Contexto Profissional)
+391. **Let’s schedule the meeting for Wednesday at 3 PM.**  
+     _Vamos agendar a reunião para quarta-feira às 15h._
+
+392. **The presentation must include data from the latest report.**  
+     _A apresentação deve incluir dados do relatório mais recente._
+
+393. **Could you summarize the key points we discussed earlier?**  
+     _Você poderia resumir os principais pontos que discutimos anteriormente?_
+
+394. **We’ve been brainstorming ideas to improve the product’s features.**  
+     _Estamos trocando ideias para melhorar os recursos do produto._
+
+395. **If we prepare well, the proposal will impress the board.**  
+     _Se nos prepararmos bem, a proposta impressionará o conselho._
+
+---
+
+#### Relacionamentos e Amizades (Contexto Social)
+396. **It was great to finally meet your friends last weekend.**  
+     _Foi ótimo finalmente conhecer seus amigos no último final de semana._
+
+397. **We should catch up over dinner sometime soon.**  
+     _Devemos nos ver para um jantar em breve._
+
+398. **If you need help moving, let me know—I’d be happy to assist!**  
+     _Se você precisar de ajuda para se mudar, me avise—ficarei feliz em ajudar!_
+
+399. **My neighbor brought me cookies the other day; they were delicious.**  
+     _Meu vizinho me trouxe biscoitos outro dia; estavam deliciosos._
+
+400. **She’s been feeling lonely lately; we should invite her out.**  
+     _Ela tem se sentido sozinha ultimamente; devemos convidá-la para sair._
+
+---
+
+#### Turismo e Viagens
+401. **Excuse me, can you tell me how to get to the train station?**  
+     _Com licença, você pode me dizer como chegar à estação de trem?_
+
+402. **We’re planning to visit Italy next summer for a family trip.**  
+     _Estamos planejando visitar a Itália no próximo verão em uma viagem em família._
+
+403. **By the time we reach the airport, the check-in counter will have closed.**  
+     _Quando chegarmos ao aeroporto, o balcão de check-in já terá fechado._
+
+404. **Could you recommend a good local restaurant nearby?**  
+     _Você poderia recomendar um bom restaurante local por aqui?_
+
+405. **If we book tickets early, we might get a better price.**  
+     _Se reservarmos os ingressos cedo, talvez consigamos um preço melhor._
+
+---
+
+#### Lazer e Hobbies
+406. **I’ve recently started learning how to play the guitar.**  
+     _Recentemente comecei a aprender a tocar violão._
+
+407. **She enjoys painting landscapes as a way to relax after work.**  
+     _Ela gosta de pintar paisagens como forma de relaxar depois do trabalho._
+
+408. **If you’re into hiking, there’s an amazing trail near our town.**  
+     _Se você gosta de caminhadas, há uma trilha incrível perto da nossa cidade._
+
+409. **The book club meets every other Thursday to discuss the reading.**  
+     _O clube do livro se reúne a cada duas quintas-feiras para discutir a leitura._
+
+410. **We’ve been binge-watching an amazing TV series on the weekends.**  
+     _Temos assistido compulsivamente a uma série incrível nos finais de semana._
+
+---
+
+#### Saúde e Bem-Estar
+411. **How long have you been practicing yoga? It looks so relaxing!**  
+     _Há quanto tempo você pratica yoga? Parece tão relaxante!_
+
+412. **I had a headache yesterday, but I feel much better now.**  
+     _Eu estava com dor de cabeça ontem, mas agora me sinto muito melhor._
+
+413. **If you eat healthier foods, you might feel more energetic.**  
+     _Se você comer alimentos mais saudáveis, poderá se sentir mais energizado._
+
+414. **The doctor suggested I take up swimming to improve my posture.**  
+     _O médico sugeriu que eu começasse a nadar para melhorar minha postura._
+
+415. **We went for a long walk in the park to enjoy fresh air and exercise.**  
+     _Fomos dar uma longa caminhada no parque para aproveitar o ar fresco e nos exercitar._
+
+---
+
+#### Redes Sociais e Falar Online
+416. **I loved the photo you posted yesterday—it looks amazing!**  
+     _Adorei a foto que você postou ontem—está incrível!_
+
+417. **Could you send me the link to that video you mentioned?**  
+     _Você poderia me mandar o link do vídeo que você mencionou?_
+
+418. **Let’s create a group chat so we can coordinate the event more easily.**  
+     _Vamos criar um grupo no chat para coordenarmos o evento mais facilmente._
+
+419. **She tagged me in a hilarious meme earlier today.**  
+     _Ela me marcou em um meme hilário hoje mais cedo._
+
+420. **If you follow that travel page, you’ll find great vacation tips.**  
+     _Se você seguir aquela página de viagens, encontrará ótimas dicas de férias._
+
+---
+
+#### Sustentabilidade e Meio Ambiente
+421. **The company has implemented policies to reduce energy consumption.**  
+     _A empresa implementou políticas para reduzir o consumo de energia._
+
+422. **By 2030, we hope to achieve zero waste in our community.**  
+     _Até 2030, esperamos alcançar desperdício zero em nossa comunidade._
+
+423. **If everyone recycles more, the planet will be cleaner for future generations.**  
+     _Se todos reciclarem mais, o planeta será mais limpo para as futuras gerações._
+
+424. **The local farmers’ market promotes sustainable agriculture.**  
+     _O mercado de agricultores locais promove a agricultura sustentável._
+
+425. **We’ve been planting trees in the park to create more green spaces.**  
+     _Estamos plantando árvores no parque para criar mais espaços verdes._
+
+---
+
+#### Futuro e Situações Hipotéticas
+426. **If I could live anywhere in the world, I’d choose a small island.**  
+     _Se eu pudesse morar em qualquer lugar do mundo, escolheria uma pequena ilha._
+
+427. **In five years, I hope to have started my own business.**  
+     _Em cinco anos, espero ter iniciado meu próprio negócio._
+
+428. **If we had acted sooner, we could have avoided this issue.**  
+     _Se tivéssemos agido mais cedo, poderíamos ter evitado esse problema._
+
+429. **By the year 2050, technology will have transformed our way of life.**  
+     _Até o ano de 2050, a tecnologia terá transformado nossa forma de viver._
+
+430. **Imagine if humans could live on another planet in the future!**  
+     _Imagine se os humanos pudessem viver em outro planeta no futuro!_
+```
+
+---
+
+
+Vamos nessa! Continuarei com os blocos de frases e traduções em diferentes **contextos**, conforme fizemos antes, até atingirmos o total de **1000 frases**. Aqui está a próxima continuação partindo de **431**:  
+
+---
+
+### Com Traduções (Bloco Variado)
+```markdown
+#### Relacionamentos e Amizades (Contexto Social)
+431. **We haven’t seen each other in such a long time! Let’s meet soon.**  
+     _Não nos vemos há tanto tempo! Vamos nos encontrar em breve._
+
+432. **If you visit New York, I’ll show you around the city.**  
+     _Se você visitar Nova York, vou te mostrar a cidade._
+
+433. **My best friend always knows how to cheer me up.**  
+     _Meu melhor amigo sempre sabe como me animar._
+
+434. **When we were kids, we used to play outside every afternoon.**  
+     _Quando éramos crianças, costumávamos brincar lá fora todas as tardes._
+
+435. **She’s been teaching me how to bake her family's traditional cake.**  
+     _Ela tem me ensinado a fazer o bolo tradicional da família dela._
+
+---
+
+#### Trabalho e Reuniões (Contexto Profissional)
+436. **The team is currently discussing the next steps of the project.**  
+     _A equipe está discutindo os próximos passos do projeto._
+
+437. **Could you email me the latest version of the presentation?**  
+     _Você poderia me enviar por e-mail a última versão da apresentação?_
+
+438. **If we improve communication, our workflow will be much smoother.**  
+     _Se melhorarmos a comunicação, nosso fluxo de trabalho será muito mais eficiente._
+
+439. **The CEO emphasized the importance of innovation and flexibility.**  
+     _O CEO enfatizou a importância da inovação e flexibilidade._
+
+440. **We’ve been focusing on new strategies to expand internationally.**  
+     _Temos focado em novas estratégias para expandir internacionalmente._
+
+---
+
+#### Turismo e Viagens
+441. **Could you recommend some must-see attractions in your city?**  
+     _Você poderia recomendar algumas atrações imperdíveis na sua cidade?_
+
+442. **We booked a cozy cabin by the lake for the weekend.**  
+     _Reservamos uma cabana aconchegante à beira do lago para o fim de semana._
+
+443. **The guide showed us all the historical landmarks in the area.**  
+     _O guia nos mostrou todos os pontos históricos da região._
+
+444. **By the time we arrived at the hotel, our room had already been prepared.**  
+     _Quando chegamos ao hotel, nosso quarto já tinha sido preparado._
+
+445. **If I had more vacation days, I’d travel to multiple countries.**  
+     _Se eu tivesse mais dias de férias, viajaria para vários países._
+
+---
+
+#### Lazer e Hobbies
+446. **I’ve been learning photography and practicing at the park every weekend.**  
+     _Tenho aprendido fotografia e praticado no parque todos os finais de semana._
+
+447. **We usually play soccer at the local field on Saturdays.**  
+     _Geralmente jogamos futebol no campo local aos sábados._
+
+448. **If you’re interested, I can teach you how to knit a scarf.**  
+     _Se você estiver interessado, posso te ensinar a tricotar um cachecol._
+
+449. **She enjoys writing poetry in her free time.**  
+     _Ela gosta de escrever poesias no tempo livre._
+
+450. **They’ve been working on a short film for a local festival.**  
+     _Eles têm trabalhado em um curta-metragem para um festival local._
+
+---
+
+#### Saúde e Bem-Estar
+451. **I’ve started going for a walk every morning, and it feels great.**  
+     _Comecei a caminhar todas as manhãs, e isso é ótimo._
+
+452. **She suggested I try meditation to reduce stress.**  
+     _Ela sugeriu que eu tentasse meditação para reduzir o estresse._
+
+453. **If you drink more water, your skin might look healthier.**  
+     _Se você beber mais água, sua pele pode parecer mais saudável._
+
+454. **My friend has been taking Pilates classes for better flexibility.**  
+     _Minha amiga tem feito aulas de Pilates para melhorar a flexibilidade._
+
+455. **By next year, I’ll have completed three fitness challenges.**  
+     _Até o próximo ano, terei completado três desafios de fitness._
+
+---
+
+#### Sustentabilidade e Meio Ambiente
+456. **Our neighborhood recently started a recycling program.**  
+     _Nosso bairro começou recentemente um programa de reciclagem._
+
+457. **When we switched to solar power, our energy bills dropped significantly.**  
+     _Quando mudamos para energia solar, nossas contas de luz diminuíram significativamente._
+
+458. **If everyone planted trees, cities would become greener and cleaner.**  
+     _Se todos plantassem árvores, as cidades se tornariam mais verdes e limpas._
+
+459. **The documentary highlights the effects of climate change on wildlife.**  
+     _O documentário destaca os efeitos das mudanças climáticas na vida selvagem._
+
+460. **She has been promoting eco-friendly habits through her social media.**  
+     _Ela tem promovido hábitos ecológicos por meio de suas redes sociais._
+
+---
+
+#### Família
+461. **We always spend holidays together as a family—it’s a tradition.**  
+     _Sempre passamos os feriados juntos como uma família—é uma tradição._
+
+462. **If my brother visits next weekend, we’ll host a small family dinner.**  
+     _Se meu irmão visitar no próximo fim de semana, faremos um pequeno jantar em família._
+
+463. **My dad taught me how to drive when I was 17.**  
+     _Meu pai me ensinou a dirigir quando eu tinha 17 anos._
+
+464. **The kids have been playing in the backyard all afternoon.**  
+     _As crianças estão brincando no quintal a tarde toda._
+
+465. **By the time we arrive, grandma will have already prepared her famous pie.**  
+     _Quando chegarmos, a vovó já terá preparado sua famosa torta._
+
+---
+
+#### Redes Sociais
+466. **I follow a lot of artists on Instagram for inspiration.**  
+     _Eu sigo muitos artistas no Instagram para me inspirar._
+
+467. **Have you seen the funny video she posted yesterday?**  
+     _Você viu o vídeo engraçado que ela postou ontem?_
+
+468. **If you use hashtags wisely, more people will find your content.**  
+     _Se você usar hashtags com sabedoria, mais pessoas encontrarão seu conteúdo._
+
+469. **He’s been managing a popular blog about traveling abroad.**  
+     _Ele tem gerenciado um blog popular sobre viagens ao exterior._
+
+470. **By the end of the week, I’ll have uploaded my new photography portfolio online.**  
+     _Até o final da semana, terei enviado meu novo portfólio de fotografia online._
+```
+
+---
+
+Claro! Seguiremos adicionando mais frases e traduções para atingir as **1000 frases**. Continuarei explorando os **diversos contextos** sugeridos anteriormente para manter a prática variada e interessante.
+
+---
+
+### Com Traduções (Bloco Variado)
+
+```markdown
+#### Relacionamentos e Amizades (Contexto Social)
+471. **We stayed up all night talking and laughing—it was so much fun.**  
+     _Ficamos acordados a noite toda conversando e rindo—foi muito divertido._
+
+472. **If you text her, she might join us for dinner later.**  
+     _Se você mandar uma mensagem para ela, talvez ela se junte a nós para o jantar mais tarde._
+
+473. **My friend has been planning a reunion with our old classmates.**  
+     _Meu amigo tem planejado uma reunião com nossos antigos colegas de classe._
+
+474. **They would have invited me if they had known I was free.**  
+     _Eles teriam me convidado se soubessem que eu estava livre._
+
+475. **Whenever we hang out, I feel so much better.**  
+     _Sempre que saímos juntos, eu me sinto muito melhor._
+
+---
+
+#### Trabalho e Reuniões (Contexto Profissional)
+476. **The project deadline has been extended by two weeks.**  
+     _O prazo do projeto foi estendido em duas semanas._
+
+477. **Could you clarify the main goals before we start working on this?**  
+     _Você poderia esclarecer os principais objetivos antes de começarmos a trabalhar nisso?_
+
+478. **We’ve scheduled another meeting to review the feedback from the team.**  
+     _Agendamos outra reunião para revisar o feedback da equipe._
+
+479. **By the time the presentation starts, all attendees should be seated.**  
+     _Quando a apresentação começar, todos os participantes devem estar sentados._
+
+480. **If we don’t address this issue now, it might become a bigger problem later.**  
+     _Se não abordarmos esse problema agora, ele pode se tornar um problema maior depois._
+
+---
+
+#### Turismo e Viagens
+481. **I haven’t traveled abroad in years, but I’m planning a trip soon.**  
+     _Não viajo para o exterior há anos, mas estou planejando uma viagem em breve._
+
+482. **Could you please check if our flight has been delayed?**  
+     _Você poderia verificar se nosso voo foi atrasado?_
+
+483. **We’ll be staying at a beach resort during our vacation.**  
+     _Ficaremos em um resort à beira-mar durante as férias._
+
+484. **If I had saved more money, I could have visited more places this year.**  
+     _Se eu tivesse economizado mais, poderia ter visitado mais lugares neste ano._
+
+485. **The view from the top of the mountain was absolutely breathtaking.**  
+     _A vista do topo da montanha era absolutamente deslumbrante._
+
+---
+
+#### Lazer e Hobbies
+486. **I’ve joined a pottery class to learn something new and creative.**  
+     _Me inscrevi em uma aula de cerâmica para aprender algo novo e criativo._
+
+487. **He spends hours every weekend fishing by the river.**  
+     _Ele passa horas todo final de semana pescando à beira do rio._
+
+488. **If you like puzzles, I’ll lend you my favorite board game.**  
+     _Se você gosta de quebra-cabeças, vou te emprestar meu jogo de tabuleiro favorito._
+
+489. **She’s been writing a novel in her free time—it’s really impressive.**  
+     _Ela tem escrito um romance no tempo livre—é realmente impressionante._
+
+490. **We’ve been practicing a lot for the chess tournament next month.**  
+     _Temos praticado muito para o torneio de xadrez no próximo mês._
+
+---
+
+#### Saúde e Bem-Estar
+491. **I felt much better after going for a bike ride this morning.**  
+     _Me senti muito melhor depois de andar de bicicleta esta manhã._
+
+492. **If you start exercising regularly, you’ll notice changes in no time.**  
+     _Se começar a se exercitar regularmente, notará mudanças rapidamente._
+
+493. **They’ve been attending mindfulness workshops to deal with stress.**  
+     _Eles têm frequentado workshops de mindfulness para lidar com o estresse._
+
+494. **The doctor said I need to drink more water and stay hydrated.**  
+     _O médico disse que eu preciso beber mais água e me manter hidratado._
+
+495. **By the end of the year, I’ll have achieved all my fitness goals.**  
+     _Até o final do ano, terei alcançado todas as minhas metas de saúde._
+
+---
+
+#### Sustentabilidade e Meio Ambiente
+496. **The local government launched a program to promote green energy.**  
+     _O governo local lançou um programa para promover energia verde._
+
+497. **If people reused more, there’d be less waste in the world.**  
+     _Se as pessoas reutilizassem mais, haveria menos resíduos no mundo._
+
+498. **She’s been volunteering to clean the river every weekend.**  
+     _Ela tem trabalhado como voluntária para limpar o rio todos os finais de semana._
+
+499. **The organization planted 1,000 trees as part of their reforestation project.**  
+     _A organização plantou 1.000 árvores como parte do projeto de reflorestamento._
+
+500. **By 2050, many cities will have adopted sustainable urban planning.**  
+     _Até 2050, muitas cidades terão adotado o planejamento urbano sustentável._
+
+---
+
+#### Contexto Futuro e Situações Hipotéticas
+501. **If I win the lottery someday, I’ll travel around the world.**  
+     _Se eu ganhar na loteria algum dia, vou viajar pelo mundo._
+
+502. **In the future, robots might take care of household chores for us.**  
+     _No futuro, os robôs podem cuidar das tarefas domésticas para nós._
+
+503. **If you had studied abroad, you would have learned a lot about other cultures.**  
+     _Se você tivesse estudado no exterior, teria aprendido muito sobre outras culturas._
+
+504. **By 2100, humanity will have developed incredible new technologies.**  
+     _Até o ano 2100, a humanidade terá desenvolvido novas tecnologias incríveis._
+
+505. **Imagine if we could teleport instead of taking long flights!**  
+     _Imagine se pudéssemos nos teletransportar em vez de pegar voos longos!_
+```
+
+---
+
