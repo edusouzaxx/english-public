@@ -2766,3 +2766,656 @@ Claro! Seguindo o mesmo contexto, vou elaborar mais frases em inglês relacionad
 
 813. **Thank you for your valuable inputs during the presentation—I’ll incorporate your suggestions moving forward.**  
      _Obrigado pelas contribuições valiosas durante a apresentação—incorporarei suas sugestões daqui em diante._
+
+814. **I’ve identified a few potential improvements for this project based on my observations. Could we discuss them?**  
+     _Identifiquei algumas melhorias potenciais para este projeto com base nas minhas observações. Poderíamos discuti-las?_
+
+815. **Would it be helpful if I took responsibility for organizing the next steps?**  
+     _Seria útil se eu assumisse a responsabilidade de organizar os próximos passos?_
+
+816. **If it’s okay with you, I’d like to take ownership of [specific task].**  
+     _Se estiver tudo bem para você, eu gostaria de assumir a responsabilidade por [tarefa específica]._
+
+817. **I noticed an opportunity to streamline this process—could I share my ideas with the team?**  
+     _Percebi uma oportunidade de simplificar esse processo—posso compartilhar minhas ideias com a equipe?_
+
+818. **To enhance collaboration, we could schedule regular check-ins to track our progress.**  
+     _Para melhorar a colaboração, poderíamos agendar check-ins regulares para acompanhar nosso progresso._
+
+---
+
+#### Participação em Reuniões
+
+819. **I’d like to add to that point—here’s an idea we might consider exploring further.**  
+     _Gostaria de acrescentar a esse ponto—aqui vai uma ideia que talvez possamos explorar mais a fundo._
+
+820. **I’ve been analyzing this issue, and I’d like to propose a few possible solutions.**  
+     _Estive analisando este problema e gostaria de propor algumas possíveis soluções._
+
+821. **This aligns with what we’ve been discussing, and I think it could be beneficial to the project.**  
+     _Isso se alinha com o que discutimos, e acho que pode ser benéfico para o projeto._
+
+822. **Before we move on, I’d like to clarify something regarding the previous discussion.**  
+     _Antes de prosseguirmos, gostaria de esclarecer algo em relação à discussão anterior._
+
+823. **I agree with your suggestion, but I’d like to explore another angle as well.**  
+     _Concordo com sua sugestão, mas gostaria de explorar outro ponto de vista também._
+
+824. **I’ve reviewed the project brief, and I’ll begin working on the assigned tasks right away.**  
+     _Revisei o resumo do projeto e vou começar a trabalhar nas tarefas atribuídas imediatamente._
+
+825. **Is there anything else I can do to support the team this week?**  
+     _Há algo mais que eu possa fazer para apoiar a equipe esta semana?_
+
+826. **I’m committed to ensuring this task is completed on time and with great quality.**  
+     _Estou comprometido em garantir que esta tarefa seja concluída no prazo e com ótima qualidade._
+
+827. **If I come across any roadblocks, I’ll make sure to inform the team immediately.**  
+     _Se eu encontrar qualquer obstáculo, vou informar a equipe imediatamente._
+
+828. **By the end of this week, I’ll provide an update on my progress and next steps.**  
+     _Até o final desta semana, vou fornecer uma atualização sobre meu progresso e os próximos passos._
+
+---
+
+#### Moradia 
+
+829. **I’m currently looking for a place to rent that suits my family’s needs.**  
+     _Atualmente estou procurando um lugar para alugar que atenda às necessidades da minha família._
+
+830. **Could you recommend any good neighborhoods for families?**  
+     _Você poderia recomendar alguns bons bairros para famílias?_
+
+831. **I’d like to find an apartment with at least three bedrooms and a good location.**  
+     _Eu gostaria de encontrar um apartamento com pelo menos três quartos e uma boa localização._
+
+832. **Is there a website or agency you’d suggest for finding rental properties?**  
+     _Há algum site ou imobiliária que você recomendaria para encontrar imóveis para alugar?_
+
+833. **How far is this property from the city center or public transportation?**  
+     _Qual a distância desta propriedade até o centro da cidade ou o transporte público?_
+
+834. **What amenities are included in the building, such as parking or a gym?**  
+     _Quais comodidades estão incluídas no prédio, como estacionamento ou academia?_
+
+835. **I’m interested in visiting the apartment. When would it be convenient for me to schedule a viewing?**  
+     _Tenho interesse em visitar o apartamento. Quando seria conveniente agendar uma visita?_
+
+---
+
+#### Negociando com Proprietários ou Imobiliárias
+836. **What is the monthly rent for this property, and are utilities included?**  
+     _Qual é o aluguel mensal desta propriedade e os custos com utilidades estão incluídos?_
+
+837. **Are there any additional fees, such as maintenance costs or parking?**  
+     _Há taxas adicionais, como custos de manutenção ou estacionamento?_
+
+838. **What’s the required deposit for renting this property?**  
+     _Qual é o depósito exigido para alugar esta propriedade?_
+
+839. **Is the lease term flexible, or do I need to sign a one-year contract?**  
+     _O prazo do contrato é flexível ou preciso assinar um contrato de um ano?_
+
+840. **Could you tell me the process for applying to rent this apartment?**  
+     _Você poderia me dizer qual é o processo para aplicar para alugar este apartamento?_
+
+841. **Does the apartment come furnished, or will I need to buy my own furniture?**  
+     _O apartamento vem mobiliado ou precisarei comprar os meus próprios móveis?_
+
+842. **If I decide to move out before the lease ends, are there penalties or fees?**  
+     _Se eu decidir me mudar antes de o contrato terminar, há penalidades ou taxas?_
+
+843. **Is it possible to negotiate the rent, or is the price fixed?**  
+     _É possível negociar o aluguel ou o preço é fixo?_
+
+844. **How often do you increase the rent, and by how much?**  
+     _Com que frequência o aluguel aumenta e qual costuma ser o percentual?_
+
+845. **Could I meet the landlord before signing the contract?**  
+     _Eu poderia conhecer o proprietário antes de assinar o contrato?_
+
+---
+
+### Frases sobre Adaptação e Organização em um Novo Lar
+
+#### Mudança e Primeiros Passos em Casa
+846. **I recently moved into a new apartment and I’m still settling in.**  
+     _Recentemente, me mudei para um novo apartamento e ainda estou me ajustando._
+
+847. **The new place is quite spacious, and it feels very comfortable so far.**  
+     _O novo lugar é bastante espaçoso e tem sido muito confortável até agora._
+
+848. **I’m unpacking and organizing everything to make the space feel like home.**  
+     _Estou desempacotando e organizando tudo para fazer o espaço parecer um lar._
+
+849. **I’ve already set up the essential furniture, like the bed and dining table.**  
+     _Eu já organizei os móveis essenciais, como a cama e a mesa de jantar._
+
+850. **The neighbors have been friendly and welcoming, which is a nice surprise.**  
+     _Os vizinhos têm sido amigáveis e receptivos, o que foi uma boa surpresa._
+
+851. **One of the first things I did was to check the grocery stores and services nearby.**  
+     _Uma das primeiras coisas que fiz foi verificar os mercados e serviços próximos._
+
+852. **I still need to register for utilities like internet, water, and electricity.**  
+     _Ainda preciso registrar os serviços como internet, água e eletricidade._
+
+---
+
+#### Resolvendo Problemas Potenciais na Moradia
+853. **The apartment is great, but I noticed a small issue with the plumbing.**  
+     _O apartamento é ótimo, mas percebi um pequeno problema com o encanamento._
+
+854. **Could you send someone to fix the heating? It hasn’t been working properly.**  
+     _Você poderia enviar alguém para consertar o aquecimento? Não está funcionando corretamente._
+
+855. **The landlord suggested I contact him directly if any problems arise.**  
+     _O proprietário sugeriu que eu entrasse em contato diretamente com ele se surgissem problemas._
+
+856. **Should I report maintenance issues to the building management or the landlord?**  
+     _Devo relatar problemas de manutenção para a administração do prédio ou para o proprietário?_
+
+857. **The apartment doesn’t come with curtains, so I’m planning to install some myself.**  
+     _O apartamento não tem cortinas, então estou planejando instalar algumas eu mesmo._
+
+---
+
+### Frases sobre Encontrar um Lugar Permanente
+
+#### Pesquisando o Lar Ideal
+858. **I’m searching for a permanent home where my family can join me later.**  
+     _Estou procurando uma casa definitiva para que minha família possa se juntar a mim mais tarde._
+
+859. **I’d like to find a property that’s close to good schools and parks.**  
+     _Gostaria de encontrar uma propriedade que fique próxima de boas escolas e parques._
+
+860. **We want a family-friendly neighborhood with plenty of amenities nearby.**  
+     _Queremos um bairro adequado para famílias, com muitas comodidades nas proximidades._
+
+861. **Our ideal home has at least three bedrooms, a garden, and a modern kitchen.**  
+     _Nossa casa ideal tem pelo menos três quartos, um jardim e uma cozinha moderna._
+
+862. **I’m looking for a house that offers enough space for my kids to play.**  
+     _Estou procurando uma casa que ofereça espaço suficiente para as minhas crianças brincarem._
+
+---
+
+#### Consultando Imobiliárias ou Agentes Imobiliários
+863. **I’d like to hire a real estate agent to help me find the right property.**  
+     _Gostaria de contratar um corretor imobiliário para me ajudar a encontrar a propriedade certa._
+
+864. **Could you provide a list of available homes in this area that meet my criteria?**  
+     _Você poderia fornecer uma lista de casas disponíveis nesta área que atendam aos meus critérios?_
+
+865. **What’s the typical price range for renting or buying in this neighborhood?**  
+     _Qual é a faixa de preço típica para alugar ou comprar neste bairro?_
+
+866. **Can I schedule visits to multiple properties in one day?**  
+     _Posso agendar visitas a várias propriedades no mesmo dia?_
+
+867. **Do you have any advice on negotiating prices or lease terms?**  
+     _Você tem algum conselho sobre como negociar preços ou os termos do contrato?_
+
+---
+
+868. **Excuse me, could you help me find where the bread is?**  
+     _Com licença, você poderia me ajudar a encontrar onde está o pão?_
+
+869. **Where can I find the dairy section?**  
+     _Onde posso encontrar a seção de laticínios?_
+
+870. **Is there a section for gluten-free or organic products in this store?**  
+     _Há uma seção para produtos sem glúten ou orgânicos nesta loja?_
+
+871. **Do you have any fresh fruits in stock today?**  
+     _Vocês têm frutas frescas hoje?_
+
+872. **I’m looking for oat milk—could you point me in the right direction?**  
+     _Estou procurando por leite de aveia—você poderia me indicar o caminho?_
+
+873. **Could you tell me where to find canned goods, like beans and tomatoes?**  
+     _Você poderia me dizer onde encontrar alimentos enlatados, como feijão e tomates?_
+
+874. **Do you sell vegetarian or vegan-ready meals?**  
+     _Vocês vendem refeições prontas vegetarianas ou veganas?_
+
+875. **Are there any affordable options for fresh meat or seafood?**  
+     _Há opções acessíveis de carnes frescas ou frutos do mar?_
+
+876. **How much does this cost?**  
+     _Quanto isso custa?_
+
+877. **Is this on sale or part of any promotion?**  
+     _Isso está em promoção ou faz parte de alguma oferta?_
+
+878. **What’s the price for a 1-kilo bag of rice?**  
+     _Qual é o preço de um saco de 1 quilo de arroz?_
+
+879. **Are there discounts if I buy multiple items?**  
+     _Há descontos se eu comprar vários itens?_
+
+880. **Can I use this coupon with my purchase?**  
+     _Posso usar este cupom na minha compra?_
+
+881. **I noticed this sign says “Buy One, Get One Free.” Does it apply to all brands?**  
+     _Notei que este cartaz diz “Compre um, leve outro grátis.” Isso se aplica a todas as marcas?_
+
+882. **Could you check the price of this item for me, please?**  
+     _Você poderia verificar o preço deste item para mim, por favor?_
+
+883. **Do you have loyalty cards or discounts for frequent shoppers?**  
+     _Vocês têm cartões de fidelidade ou descontos para compradores frequentes?_
+
+884. **Excuse me, could you tell me if this product is still in stock?**  
+     _Com licença, você poderia me dizer se este produto ainda está em estoque?_
+
+885. **Could you recommend a good brand for olive oil?**  
+     _Você poderia me recomendar uma boa marca de azeite de oliva?_
+
+886. **I found this item without a price tag. Could you let me know how much it costs?**  
+     _Encontrei este item sem etiqueta de preço. Você poderia me informar quanto custa?_
+
+887. **Can I pay with a debit or credit card?**  
+     _Posso pagar com cartão de débito ou crédito?_
+
+888. **Do you accept mobile payments, like Apple Pay or Google Pay?**  
+     _Vocês aceitam pagamentos por celular, como Apple Pay ou Google Pay?_
+
+889. **Can I get a receipt, please?**  
+     _Posso receber um recibo, por favor?_
+
+890. **Would you like me to bag the groceries, or do you provide employees for that?**  
+     _Gostaria que eu ensacasse as compras, ou vocês têm funcionários para isso?_
+
+891. **Could you please double-check to make sure everything was scanned correctly?**  
+     _Você poderia, por favor, verificar se tudo foi escaneado corretamente?_
+
+892. **Do you offer delivery or pick-up services for heavier items?**  
+     _Vocês oferecem serviços de entrega ou retirada para itens mais pesados?_
+
+893. **Are these vegetables fresh, or were they delivered a few days ago?**  
+     _Estes vegetais estão frescos ou foram entregues há alguns dias?_
+
+894. **When will you restock fresh milk?**  
+     _Quando vocês vão reabastecer o leite fresco?_
+
+895. **Do you check the expiration dates of the dairy products regularly?**  
+     _Vocês verificam as datas de validade dos produtos lácteos regularmente?_
+
+896. **Are there any deals on fresh produce, like fruits or vegetables, today?**  
+     _Há promoções em produtos frescos, como frutas ou vegetais, hoje?_
+
+897. **What time does the bakery section restock bread?**  
+     _A que horas a seção de padaria repõe os pães?_
+
+898. **Could you recommend a good cheese for a gathering?**  
+     _Você poderia recomendar um bom queijo para uma reunião?_
+
+899. **Could you separate the cleaning products from the groceries, please?**  
+     _Você poderia separar os produtos de limpeza das compras, por favor?_
+
+900. **Could you pack the frozen and refrigerated items separately?**  
+     _Você poderia embalar os itens congelados e refrigerados separadamente?_
+
+901. **Can I have an extra bag for this heavy item?**  
+     _Posso ter uma sacola extra para este item pesado?_
+
+902. **How long will it take for delivery if I choose the home delivery option?**  
+     _Quanto tempo levará para a entrega se eu escolher a opção de entrega em casa?_
+
+903. **Thank you for your help! Have a great day!**  
+     _Obrigado pela sua ajuda! Tenha um ótimo dia!_
+
+904. **I need to schedule an appointment with a general practitioner.**  
+     _Preciso agendar uma consulta com um clínico geral._
+
+905. **Could you recommend a good dentist nearby?**  
+     _Você poderia recomendar um bom dentista aqui perto?_
+
+906. **Are there any English-speaking doctors in this clinic?**  
+     _Há médicos que falam inglês nesta clínica?_
+
+907. **I’m new to the area and would like to register at this medical center.**  
+     _Sou novo na área e gostaria de me registrar neste centro médico._
+
+908. **What’s the process for scheduling a check-up here?**  
+     _Qual é o processo para agendar um check-up aqui?_
+
+909. **Is it possible to get a referral to see a specialist?**  
+     _É possível conseguir um encaminhamento para consultar um especialista?_
+
+910. **Do you accept walk-in patients, or do I need to book in advance?**  
+     _Vocês aceitam pacientes sem horário marcado ou preciso agendar com antecedência?_
+
+911. **Does this clinic accept my health insurance?**  
+     _Esta clínica aceita meu seguro de saúde?_
+
+912. **I’d like to understand what’s covered by my health insurance plan.**  
+     _Gostaria de entender o que está coberto pelo meu plano de seguro de saúde._
+
+913. **Could you explain if there are any copayments required for this service?**  
+     _Você poderia me explicar se há alguma coparticipação exigida para este serviço?_
+
+914. **I need information on how to claim a reimbursement for medical expenses.**  
+     _Preciso de informações sobre como solicitar reembolso por despesas médicas._
+
+915. **Is dental care included in my health insurance plan?**  
+     _O atendimento odontológico está incluído no meu plano de saúde?_
+
+916. **What’s the procedure if I need to use my insurance for emergency care?**  
+     _Qual é o procedimento se eu precisar usar meu seguro para atendimento de emergência?_
+
+917. **Could I get a detailed bill for my consultation so I can send it to my insurance provider?**  
+     _Eu poderia obter uma fatura detalhada da minha consulta para enviar ao meu seguro?_
+
+918. **Does the policy cover medication costs, or are they paid separately?**  
+     _A apólice cobre os custos com medicamentos ou eles são pagos separadamente?_
+
+919. **Could you confirm if pre-existing conditions are covered by my insurance?**  
+     _Você poderia confirmar se condições preexistentes são cobertas pelo meu seguro?_
+
+920. **I’m here for a regular health check-up.**  
+     _Estou aqui para um check-up de rotina._
+
+921. **I’ve been experiencing headaches and dizziness lately.**  
+     _Tenho sentido dores de cabeça e tonturas ultimamente._
+
+922. **Do I need to bring any medical records for this appointment?**  
+     _Eu preciso trazer algum histórico médico para esta consulta?_
+
+923. **I think I might be allergic to something, but I’m not sure what.**  
+     _Acho que posso ser alérgico a alguma coisa, mas não tenho certeza ao quê._
+
+924. **Could you prescribe something for back pain?**  
+     _Você poderia prescrever algo para dor nas costas?_
+
+925. **How long will it take to get the results of my blood test?**  
+     _Quanto tempo levará para obter os resultados do meu exame de sangue?_
+
+926. **Do you offer vaccinations here, or should I go to another clinic?**  
+     _Vocês oferecem vacinas aqui ou devo ir a outra clínica?_
+
+927. **Is this medication safe to take alongside my current prescriptions?**  
+     _Este medicamento é seguro para tomar junto com minhas prescrições atuais?_
+
+928. **Could you recommend any specialists for this particular condition?**  
+     _Você poderia recomendar algum especialista para esta condição específica?_
+
+929. **I’d like to book a dental cleaning and check-up.**  
+     _Gostaria de agendar uma limpeza dentária e um check-up._
+
+930. **I’ve been feeling pain in one of my teeth—is it possible to schedule an urgent appointment?**  
+     _Tenho sentido dor em um dos meus dentes—é possível agendar uma consulta urgente?_
+
+931. **Could you check if I have any cavities?**  
+     _Você poderia verificar se eu tenho cáries?_
+
+932. **I think I might need a filling or some restoration for this tooth.**  
+     _Acho que talvez eu precise de uma obturação ou alguma restauração para este dente._
+
+933. **What are the options if I want to whiten my teeth?**  
+     _Quais são as opções se eu quiser clarear meus dentes?_
+
+934. **Is this clinic equipped to perform root canal procedures?**  
+     _Esta clínica está equipada para realizar tratamentos de canal?_
+
+935. **Could you advise me on the best toothbrush or toothpaste for sensitive gums?**  
+     _Você poderia me aconselhar sobre a melhor escova ou pasta de dente para gengivas sensíveis?_
+
+936. **Do you offer dental x-rays as part of the initial assessment?**  
+     _Vocês fazem radiografias dentárias como parte da avaliação inicial?_
+
+937. **How often should I visit the dentist for routine check-ups?**  
+     _Com que frequência devo visitar o dentista para check-ups de rotina?_
+
+938. **I need to see a doctor urgently—is this clinic open for emergencies?**  
+     _Preciso ver um médico urgentemente—esta clínica atende emergências?_
+
+939. **I’m having difficulty breathing and need immediate medical attention.**  
+     _Estou tendo dificuldade para respirar e preciso de atendimento médico imediato._
+
+940. **Is there an emergency room nearby that operates 24/7?**  
+     _Há uma sala de emergência próxima que funciona 24 horas por dia?_
+
+941. **Could someone call an ambulance for me?**  
+     _Alguém poderia chamar uma ambulância para mim?_
+
+942. **Do you have a first-aid service available for minor injuries?**  
+     _Vocês têm serviço de primeiros socorros disponível para ferimentos leves?_
+
+943. **I’ve twisted my ankle—could you recommend a physiotherapist?**  
+     _Torci o tornozelo—você poderia recomendar um fisioterapeuta?_
+
+944. **I’d like to join a gym to help improve my physical health—any recommendations?**  
+     _Gostaria de entrar em uma academia para melhorar minha saúde física—alguma recomendação?_
+
+945. **Could you recommend a healthy diet plan or nutritionist?**  
+     _Você poderia recomendar um plano de dieta saudável ou um nutricionista?_
+
+946. **What’s the best way to manage stress and improve mental health?**  
+     _Qual é a melhor forma de gerenciar o estresse e melhorar a saúde mental?_
+
+947. **Are there any vaccination programs for adults available in this area?**  
+     _Há programas de vacinação para adultos disponíveis nesta área?_
+
+948. **Do you know any yoga studios or fitness classes near my location?**  
+     _Você conhece algum estúdio de ioga ou aulas de fitness perto da minha localização?_
+
+#### Fazendo Pedido
+931. **I’d like to order the grilled salmon with a side of vegetables, please.**  
+     _Gostaria de pedir o salmão grelhado com acompanhamento de vegetais, por favor._
+
+932. **Could you tell me if this dish contains nuts? I have an allergy.**  
+     _Você poderia me dizer se este prato contém nozes? Tenho alergia._
+
+933. **Can I have the daily special? What does it include?**  
+     _Posso pedir o especial do dia? O que ele inclui?_
+
+934. **Do you have vegetarian or gluten-free options on the menu?**  
+     _Vocês têm opções vegetarianas ou sem glúten no cardápio?_
+
+935. **Could I see the wine list, please?**  
+     _Posso ver a carta de vinhos, por favor?_
+
+#### Comprando Passagens / Perguntando
+936. **Where can I buy tickets for the subway?**  
+     _Onde posso comprar passagens para o metrô?_
+
+937. **Does this bus go to the city center?**  
+     _Este ônibus vai para o centro da cidade?_
+
+938. **How much is a weekly pass for public transport?**  
+     _Quanto custa um passe semanal para o transporte público?_
+
+939. **What time does the last train leave?**  
+     _A que horas sai o último trem?_
+
+940. **I’m not sure where to get off—could you tell me when we reach [Destination]?**  
+     _Não tenho certeza de onde devo descer—você poderia me avisar quando chegarmos a [Destino]?_
+
+#### Conhecendo Colegas em Eventos
+941. **Hi, I’m [Your Name], I work in [Your Field/Department]. What about you?**  
+     _Oi, sou [Seu Nome], trabalho em [Área/Departamento]. E você?_
+
+942. **What brought you to this event?**  
+     _O que trouxe você a este evento?_
+
+943. **It’s great to meet people from such diverse professional backgrounds today.**  
+     _É ótimo conhecer pessoas de contextos profissionais tão diversos hoje._
+
+944. **Do you think we could exchange contact details to discuss partnerships in the future?**  
+     _Você acha que poderíamos trocar contatos para discutir parcerias no futuro?_
+
+945. **I’m very interested in learning how your company approaches [Topic].**  
+     _Estou muito interessado em saber como sua empresa aborda [Assunto]._
+
+#### Abrindo Conta e Serviços
+946. **I’d like to open a bank account. What documents will I need?**  
+     _Gostaria de abrir uma conta bancária. Quais documentos vou precisar?_
+
+947. **What is the monthly maintenance fee for this account?**  
+     _Qual é a taxa de manutenção mensal desta conta?_
+
+948. **Do you offer international transfers, and what are the fees?**  
+     _Vocês oferecem transferências internacionais? Quais são as taxas?_
+
+949. **Can I set up online banking for my account?**  
+     _Posso configurar o banco online para minha conta?_
+
+950. **What’s the limit for ATM withdrawals per day?**  
+     _Qual é o limite para saques em caixas eletrônicos por dia?_
+
+#### Pagando e Pedindo Ajuda
+951. **Do you have self-checkout kiosks in this store?**  
+     _Vocês têm caixas de autoatendimento nesta loja?_
+
+952. **Do you offer home delivery if I make a large purchase?**  
+     _Vocês oferecem entrega em casa se eu fizer uma compra grande?_
+
+953. **Could you show me where the international food section is?**  
+     _Você poderia me mostrar onde fica a seção de alimentos importados?_
+
+954. **I’d like to return this product—it’s defective.**  
+     _Gostaria de devolver este produto—ele está com defeito._
+
+955. **Are there any reusable shopping bags for sale here?**  
+     _Há sacolas reutilizáveis à venda aqui?_
+
+#### Consultando-se com um Médico
+956. **I’d like to make an appointment to discuss some recurring headaches.**  
+     _Gostaria de marcar uma consulta para discutir dores de cabeça recorrentes._
+
+957. **Do I need any vaccinations for traveling to [Country]?**  
+     _Preciso de alguma vacina para viajar para [País]?_
+
+958. **Could you recommend a pharmacy nearby to pick up my prescription?**  
+     _Você poderia recomendar uma farmácia próxima para pegar minha receita?_
+
+959. **Are there any annual health check-up packages available at this clinic?**  
+     _Há pacotes anuais de check-up disponíveis nesta clínica?_
+
+960. **How long is the wait time for a dental cleaning?**  
+     _Qual é o tempo de espera para uma limpeza dental?_
+
+#### Participando de Atividades Sociais
+961. **I’m interested in joining a hiking group. Do you know of any local clubs?**  
+     _Tenho interesse em entrar para um grupo de trilhas. Você conhece algum clube local?_
+
+962. **Are there any art or pottery classes nearby that you would recommend?**  
+     _Há aulas de arte ou cerâmica por aqui que você recomendaria?_
+
+963. **Do you know if the community center offers free yoga or fitness classes?**  
+     _Você sabe se o centro comunitário oferece aulas gratuitas de ioga ou fitness?_
+
+964. **I’d like to rent a tennis court. How much does it cost per hour?**  
+     _Gostaria de alugar uma quadra de tênis. Quanto custa por hora?_
+
+965. **Are there any language exchange meetups I can join?**  
+     _Há encontros de troca de idiomas que eu possa participar?_
+
+#### Pedindo Ajuda
+966. **I think I’ve lost my wallet—what’s the best way to report it?**  
+     _Acho que perdi minha carteira—qual é a melhor forma de relatar isso?_
+
+967. **There was an accident nearby—how do I call an ambulance?**  
+     _Houve um acidente aqui perto—como eu chamo uma ambulância?_
+
+968. **Could you help me find a police station? I need to file a report.**  
+     _Você poderia me ajudar a encontrar uma delegacia? Preciso fazer um boletim de ocorrência._
+
+969. **I’ve locked myself out of my apartment. Do you know a locksmith who can help?**  
+     _Tranquei-me fora do apartamento. Você conhece um chaveiro que possa ajudar?_
+
+970. **My car broke down on the highway. Who should I call for assistance?**  
+     _Meu carro quebrou na rodovia. Para quem devo ligar para assistência?_
+
+971. **Can I share my screen to show you the details of my proposal?**  
+     _Posso compartilhar minha tela para mostrar os detalhes da minha proposta?_
+
+972. **The meeting has been rescheduled for next Tuesday at 2 PM.**  
+     _A reunião foi reagendada para a próxima terça-feira às 14h._
+
+973. **I’ll send you the updated document by the end of the day.**  
+     _Vou te enviar o documento atualizado até o final do dia._
+
+974. **How would you prefer to communicate about this project—via email or instant messaging?**  
+     _Como você prefere comunicar-se sobre este projeto—por e-mail ou mensagem instantânea?_
+
+975. **Could you provide more context about the problem so I can better assist you?**  
+     _Você poderia fornecer mais contexto sobre o problema para que eu possa te ajudar melhor?_
+
+976. **Let’s make sure to align our priorities before starting the next phase of the project.**  
+     _Vamos garantir que nossas prioridades estejam alinhadas antes de começar a próxima fase do projeto._
+
+977. **I appreciate your feedback and will make the suggested adjustments.**  
+     _Agradeço pelo seu feedback e farei os ajustes sugeridos._
+
+978. **We should consider this approach to ensure the project stays on track.**  
+     _Devemos considerar essa abordagem para garantir que o projeto permaneça no caminho certo._
+
+979. **Could you help me understand the main objectives of this initiative?**  
+     _Você poderia me ajudar a entender os principais objetivos desta iniciativa?_
+
+980. **I’ll prepare the agenda for our next team meeting and share it with everyone.**  
+     _Vou preparar a pauta para nossa próxima reunião de equipe e compartilhá-la com todos._
+
+981. **What do you usually do to relax after a busy week?**  
+     _O que você costuma fazer para relaxar após uma semana agitada?_
+
+982. **I prefer to wake up early and exercise before starting my day.**  
+     _Eu prefiro acordar cedo e me exercitar antes de começar o dia._
+
+983. **Can you recommend a good book or series to watch on the weekend?**  
+     _Você pode recomendar um bom livro ou série para assistir no fim de semana?_
+
+984. **Sorry for being late—I got stuck in traffic on my way here.**  
+     _Desculpe por estar atrasado—fiquei preso no trânsito no caminho para cá._
+
+985. **I usually drink coffee in the morning, but today I felt like having tea instead.**  
+     _Eu normalmente tomo café de manhã, mas hoje quis tomar chá._
+
+986. **I’m planning to cook something different tonight—maybe try out Italian cuisine.**  
+     _Estou planejando cozinhar algo diferente hoje à noite—talvez experimentar comida italiana._
+
+987. **Do you mind if I open the window? It’s a bit warm in here.**  
+     _Você se importa se eu abrir a janela? Está um pouco quente aqui._
+
+988. **This weekend, I’m thinking of going to the park to unwind.**  
+     _Este fim de semana, estou pensando em ir ao parque para relaxar._
+
+989. **What time does the supermarket close? I need to buy a few things on my way home.**  
+     _A que horas o supermercado fecha? Preciso comprar algumas coisas no caminho de casa._
+
+990. **I’ll need to recharge my phone before we continue—its battery is almost dead.**  
+     _Eu preciso carregar meu celular antes de continuarmos—a bateria está quase acabando._
+
+991. **Do I need to book tickets for the museum in advance, or can I buy them at the entrance?**  
+     _Preciso reservar ingressos para o museu com antecedência ou posso comprá-los na entrada?_
+
+992. **Could you recommend a nice place to eat that serves local food?**  
+     _Você poderia recomendar um bom lugar para comer que sirva comida típica?_
+
+993. **What’s the best way to get to the airport from here—by taxi or public transport?**  
+     _Qual é a melhor forma de chegar ao aeroporto daqui—de táxi ou transporte público?_
+
+994. **I’m looking for a hotel with a good view of the beach.**  
+     _Estou procurando um hotel com uma boa vista para a praia._
+
+995. **Are there any guided tours available for the historical landmarks in this area?**  
+     _Há tours guiados disponíveis para os pontos históricos da região?_
+
+996. **What time does the train to the next city depart?**  
+     _A que horas o trem para a próxima cidade parte?_
+
+997. **Do you have a map of the city that I could take with me?**  
+     _Você tem um mapa da cidade que eu possa levar comigo?_
+
+998. **I’d like to try some local specialties—what would you recommend?**  
+     _Gostaria de experimentar algumas especialidades locais—o que você recomendaria?_
+
+999. **Could you tell me more about the main attractions in this area?**  
+     _Você poderia me contar mais sobre as principais atrações desta área?_
+
+1000. **Is there a place where I could rent a bike to explore the town?**  
+      _Há algum lugar onde eu possa alugar uma bicicleta para explorar a cidade?_
+
