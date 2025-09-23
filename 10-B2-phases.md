@@ -2443,3 +2443,326 @@ Claro! Seguindo o mesmo contexto, vou elaborar mais frases em inglês relacionad
 
 ---
 
+
+#### Integração com a Empresa e Colegas
+722. **It’s my first day, so I’m trying to get familiar with everyone and everything here.**  
+     _É meu primeiro dia, então estou tentando me familiarizar com todos e tudo por aqui._
+
+723. **I’d love to know more about how this team collaborates on major projects.**  
+     _Eu adoraria saber mais sobre como essa equipe colabora em projetos importantes._
+
+724. **Are there specific workflows or tools I should focus on learning first?**  
+     _Existem fluxos de trabalho ou ferramentas específicas que eu deveria aprender primeiro?_
+
+725. **What are some common challenges that new employees face when starting here?**  
+     _Quais são os desafios comuns que os novos funcionários enfrentam ao começar aqui?_
+
+726. **Could you tell me a bit about the company’s long-term vision and goals?**  
+     _Você poderia me contar um pouco sobre a visão e os objetivos de longo prazo da empresa?_
+
+727. **I’m really looking forward to contributing to the projects and meeting deadlines.**  
+     _Estou realmente ansioso para contribuir com os projetos e cumprir os prazos._
+
+728. **I’ve read about the company’s core values, and they really align with my own.**  
+     _Li sobre os valores fundamentais da empresa, e eles realmente se alinham com os meus._
+
+---
+
+#### Perguntas Específicas sobre o Trabalho e Processos
+729. **What are the key objectives for this department in the next quarter?**  
+     _Quais são os principais objetivos deste departamento no próximo trimestre?_
+
+730. **How do performance reviews work here? Are they quarterly or annual?**  
+     _Como funcionam as avaliações de desempenho aqui? São trimestrais ou anuais?_
+
+731. **Could you walk me through the typical process for completing a project in this team?**  
+     _Você poderia me explicar o processo típico de concluir um projeto nesta equipe?_
+
+732. **What is the preferred way to communicate updates—via email, meetings, or chat?**  
+     _Qual é a forma preferida de comunicar atualizações—por e-mail, reuniões ou chat?_
+
+733. **Are there any ongoing projects I should be aware of or begin to familiarize myself with?**  
+     _Há projetos em andamento com os quais eu deveria estar ciente ou começar a me familiarizar?_
+
+734. **Who are the key stakeholders I need to interact with for approvals or feedback?**  
+     _Quem são os principais stakeholders com quem preciso interagir para aprovações ou feedback?_
+
+735. **How is progress tracked in the department? Are there reporting tools or dashboards?**  
+     _Como o progresso é acompanhado no departamento? Existem ferramentas de relatórios ou painéis?_
+
+736. **What are the expectations for my role during the first 90 days?**  
+     _Quais são as expectativas para o meu cargo nos primeiros 90 dias?_
+
+---
+
+#### Lidando com Desafios Iniciais
+737. **I’m still getting used to the internal systems, but I’ll do my best to adapt quickly.**  
+     _Ainda estou me acostumando aos sistemas internos, mas farei o meu melhor para me adaptar rapidamente._
+
+738. **If I make any mistakes in the beginning, I’d appreciate your guidance to correct them.**  
+     _Se eu cometer algum erro no início, apreciaria sua orientação para corrigi-los._
+
+739. **There is a lot to learn, but I’m confident I’ll catch up with the team soon.**  
+     _Há muito para aprender, mas estou confiante de que logo vou acompanhar a equipe._
+
+740. **I may need some extra time to understand the workflows, but I’ll make sure to stay on track.**  
+     _Talvez eu precise de um tempo extra para entender os fluxos de trabalho, mas vou garantir que permanecerei alinhado._
+
+741. **If you notice anything I can improve on, please don’t hesitate to let me know.**  
+     _Se você notar algo que eu possa melhorar, por favor, não hesite em me informar._
+
+742. **I’m open to feedback as I adjust to the company’s processes and culture.**  
+     _Estou aberto a feedback enquanto me ajusto aos processos e à cultura da empresa._
+
+743. **It’s been a while since I’ve worked in this type of environment, so I’m learning a lot as I go.**  
+     _Faz um tempo desde que trabalhei em um ambiente como este, então estou aprendendo muito no processo._
+
+---
+
+#### Participando das Primeiras Reuniões
+744. **This is my first meeting with the team, so I’d like to take notes and observe.**  
+     _Esta é minha primeira reunião com a equipe, então gostaria de tomar notas e observar._
+
+745. **If anyone has advice for how I can contribute to this project, I’d love to hear it.**  
+     _Se alguém tiver conselhos sobre como posso contribuir para este projeto, adoraria ouvi-los._
+
+746. **I’d like to briefly introduce myself before we discuss today’s agenda.**  
+     _Gostaria de me apresentar brevemente antes de discutirmos a pauta de hoje._
+
+747. **What is the usual role of new team members in projects like this?**  
+     _Qual é o papel usual de novos membros da equipe em projetos como este?_
+
+748. **Could you explain the main challenges the team is currently facing?**  
+     _Você poderia explicar os principais desafios que a equipe está enfrentando atualmente?_
+
+749. **I’ll do my best to provide helpful input during our meetings going forward.**  
+     _Farei o meu melhor para fornecer contribuições úteis durante nossas reuniões a partir de agora._
+
+750. **Is there any documentation I can read to better understand the project?**  
+     _Há alguma documentação que eu possa ler para entender melhor o projeto?_
+
+---
+
+#### Criando uma Boa Impressão
+751. **I hope my skills and experience will add value to the team moving forward.**  
+     _Espero que minhas habilidades e experiência agreguem valor para a equipe daqui em diante._
+
+752. **I’m motivated to learn and grow alongside such talented colleagues.**  
+     _Estou motivado para aprender e crescer ao lado de colegas tão talentosos._
+
+753. **I’m grateful for the opportunity to join this organization and make a difference.**  
+     _Sou grato pela oportunidade de fazer parte desta organização e fazer a diferença._
+
+754. **Let me know how I can best support the team to achieve our goals.**  
+     _Me avise como posso apoiar melhor a equipe para atingirmos nossos objetivos._
+
+755. **Thank you for being so helpful as I begin this new role—it means a lot!**  
+     _Obrigado por ser tão prestativo enquanto começo neste novo cargo—isso significa muito!_
+
+#### Perguntando sobre Feedback e Progresso
+756. **How am I doing so far? Is there anything I could improve on?**  
+     _Como estou me saindo até agora? Há algo que eu poderia melhorar?_
+
+757. **I’d like to schedule a quick meeting to review my progress with you this week.**  
+     _Gostaria de agendar uma reunião rápida para revisar meu progresso com você nesta semana._
+
+758. **Could you let me know if my work so far is meeting the team’s expectations?**  
+     _Você poderia me informar se meu trabalho até agora está atendendo às expectativas da equipe?_
+
+759. **Please let me know if there’s anything else I should focus on in my role.**  
+     _Por favor, me avise se há algo mais em que eu deveria focar no meu cargo._
+
+760. **I appreciate any feedback you have as I continue to learn and adapt.**  
+     _Eu aprecio qualquer feedback que você tenha enquanto continuo aprendendo e me adaptando._
+
+761. **I’ve been working on understanding the company’s processes—does this approach make sense?**  
+     _Tenho trabalhado para entender os processos da empresa—isso faz sentido para você?_
+
+---
+
+#### Tirando Dúvidas nos Primeiros Dias
+762. **Could you clarify the process for submitting expense reports?**  
+     _Você poderia esclarecer o processo para a submissão de relatórios de despesas?_
+
+763. **I’d like to confirm the timeline for the deliverables I’m responsible for.**  
+     _Gostaria de confirmar o cronograma dos entregáveis dos quais sou responsável._
+
+764. **What’s the best way to escalate any issues I encounter with this project?**  
+     _Qual é a melhor maneira de escalar qualquer problema que eu encontrar neste projeto?_
+
+765. **Is there someone I can reach out to for mentorship or additional guidance?**  
+     _Há alguém com quem eu possa entrar em contato para mentoria ou orientação adicional?_
+
+766. **I’ve been going through the documentation, but I still have some questions. Could we discuss them?**  
+     _Estou revisando a documentação, mas ainda tenho algumas dúvidas. Poderíamos discuti-las?_
+
+---
+
+#### Pedindo Ajuda ou Orientação
+767. **I’m still learning the ropes—could you share any tips that might help?**  
+     _Ainda estou aprendendo como as coisas funcionam—ainda poderia compartilhar algumas dicas?_
+
+768. **It would be helpful if you could walk me through this task step by step.**  
+     _Seria útil se você pudesse me explicar esta tarefa passo a passo._
+
+769. **Could you show me an example of how this task has been done in the past?**  
+     _Você poderia me mostrar um exemplo de como esta tarefa foi feita no passado?_
+
+770. **Are there any unwritten rules or best practices I should know about?**  
+     _Há regras não escritas ou melhores práticas que eu deveria conhecer?_
+
+771. **Do you mind if I shadow you during one of your tasks to learn more about it?**  
+     _Você se importaria se eu o acompanhasse em uma de suas tarefas para aprender mais sobre ela?_
+
+---
+
+### Frases: Apresentações Mais Formais no Trabalho
+
+```markdown
+#### Iniciando uma Apresentação
+772. **Good morning, everyone. Thank you for giving me the opportunity to present today.**  
+     _Bom dia a todos. Obrigado por me darem a oportunidade de apresentar hoje._
+
+773. **The purpose of this presentation is to provide an overview of [Topic].**  
+     _O objetivo desta apresentação é fornecer uma visão geral sobre [Assunto]._
+
+774. **I’d like to start by introducing myself and sharing a bit about my background.**  
+     _Gostaria de começar me apresentando e compartilhando um pouco sobre minha experiência._
+
+775. **Please feel free to ask questions at any time during the presentation.**  
+     _Por favor, sintam-se à vontade para fazer perguntas a qualquer momento durante a apresentação._
+
+776. **I have divided this presentation into three main sections: [Topic A], [Topic B], and [Topic C].**  
+     _Dividi esta apresentação em três seções principais: [Tópico A], [Tópico B] e [Tópico C]._
+
+---
+
+#### Compartilhando Atualizações ou Dados
+777. **As of today, we have achieved 70% of our project goals.**  
+     _Até o momento, atingimos 70% das metas do nosso projeto._
+
+778. **This slide shows a comparison between our previous performance and current results.**  
+     _Este slide mostra uma comparação entre nosso desempenho anterior e os resultados atuais._
+
+779. **One of the key highlights this quarter is the significant reduction in costs.**  
+     _Um dos destaques principais deste trimestre é a significativa redução de custos._
+
+780. **Let me walk you through the key metrics we’ve been tracking this month.**  
+     _Deixe-me mostrar as principais métricas que temos acompanhado este mês._
+
+781. **Based on the data we’ve collected, here are the next steps we recommend.**  
+     _Com base nos dados que coletamos, aqui estão os próximos passos que recomendamos._
+
+---
+
+#### Finalizando uma Apresentação 
+782. **To conclude, I’d like to summarize the key points we’ve discussed today.**  
+     _Para concluir, gostaria de resumir os principais pontos que discutimos hoje._
+
+783. **Thank you all for your attention. I’m happy to answer any questions you might have.**  
+     _Agradeço a todos pela atenção. Estou à disposição para responder a quaisquer perguntas que vocês tenham._
+
+784. **I appreciate your input and look forward to collaborating with you further.**  
+     _Agradeço pelas suas contribuições e estou ansioso para colaborar mais com vocês._
+
+785. **Please let me know if there’s anything else you’d like me to clarify.**  
+     _Por favor, me avise se houver algo mais que você gostaria que eu esclarecesse._
+
+---
+
+#### Frases para Proatividade e Boa Impressão Após Apresentações
+786. **I’ll follow up with additional details via email later today.**  
+     _Enviarei informações adicionais por e-mail mais tarde hoje._
+
+787. **If any concerns arise, feel free to reach out to me directly.**  
+     _Se surgirem dúvidas, sinta-se à vontade para entrar em contato comigo diretamente._
+
+788. **I appreciate your feedback and will use it to refine my future presentations.**  
+     _Agradeço o seu feedback e vou usá-lo para aprimorar minhas apresentações futuras._
+
+789. **It was great to provide these insights, and I’m excited to hear your thoughts.**  
+     _Foi ótimo compartilhar essas informações, e estou animado para ouvir suas opiniões._
+
+790. **Thank you for your time, and I look forward to the opportunities ahead.**  
+     _Obrigado pelo seu tempo, e estou ansioso pelas oportunidades futuras._
+
+791. **Before we begin, I’d like to give you a quick overview of what we’ll discuss today.**  
+     _Antes de começarmos, gostaria de dar uma breve visão geral sobre o que discutiremos hoje._
+
+792. **This presentation will focus on three key areas: [Area 1], [Area 2], and [Area 3].**  
+     _Esta apresentação se concentrará em três áreas principais: [Área 1], [Área 2] e [Área 3]._
+
+793. **First, I’ll cover the background information, then we’ll dive into the current challenges and opportunities.**  
+     _Primeiro, vou abordar as informações de contexto e, em seguida, entraremos nos desafios e oportunidades atuais._
+
+794. **Let me start by saying how excited I am to share these ideas with you today.**  
+     _Deixe-me começar dizendo o quanto estou animado para compartilhar essas ideias com vocês hoje._
+
+795. **I’ve prepared a handout that summarizes the key points, and I’ll distribute it after the presentation.**  
+     _Preparei um material impresso que resume os pontos principais, e vou distribuí-lo após a apresentação._
+
+---
+
+#### Durante a Apresentação (Explicando e Dando Exemplos)
+796. **To illustrate this point, let me show you a real-world example.**  
+     _Para ilustrar este ponto, deixe-me mostrar um exemplo do mundo real._
+
+797. **This chart clearly demonstrates the progress we’ve made over the last quarter.**  
+     _Este gráfico demonstra claramente o progresso que fizemos no último trimestre._
+
+798. **Let’s take a closer look at this data, as it highlights an important trend.**  
+     _Vamos dar uma olhada mais de perto nesses dados, pois eles destacam uma tendência importante._
+
+799. **Here’s a breakdown of the key challenges and how we propose addressing them.**  
+     _Aqui está uma análise detalhada dos principais desafios e de como propomos abordá-los._
+
+800. **One major takeaway from this analysis is that we need to focus more on [Priority].**  
+     _Uma conclusão importante desta análise é que precisamos focar mais em [Prioridade]._
+
+801. **I’d like to emphasize this point because it’s critical for achieving our goals.**  
+     _Gostaria de enfatizar este ponto porque ele é crucial para alcançarmos nossos objetivos._
+
+802. **Does anyone have questions on this slide before I move on?**  
+     _Alguém tem perguntas sobre este slide antes de eu continuar?_
+
+803. **As you can see, the results have been consistently positive in the last quarter.**  
+     _Como vocês podem ver, os resultados têm sido consistentemente positivos no último trimestre._
+
+---
+
+#### Fechando a Apresentação (Resumo e Conclusão)
+804. **In summary, we’ve explored the key challenges, solutions, and opportunities for growth.**  
+     _Em resumo, exploramos os principais desafios, soluções e oportunidades de crescimento._
+
+805. **Before I wrap up, I’d like to leave you with three main takeaways.**  
+     _Antes de encerrar, gostaria de deixar vocês com três conclusões principais._
+
+806. **Thank you for your attention, and I hope this presentation has been insightful and valuable.**  
+     _Obrigado pela atenção de vocês, e espero que esta apresentação tenha sido informativa e valiosa._
+
+807. **Let’s open the floor for any questions or additional thoughts you might have.**  
+     _Vamos abrir para perguntas ou pensamentos adicionais que vocês possam ter._
+
+808. **I appreciate everyone’s time, and I look forward to working together on these solutions.**  
+     _Agradeço o tempo de todos, e estou ansioso para trabalharmos juntos nessas soluções._
+
+---
+
+### Interações Pós-Apresentação (Follow-Up e Feedback)
+
+#### Enviando Follow-Up Após a Apresentação
+```markdown
+809. **Hi everyone, I’ve just sent the slides from today’s presentation via email. Let me know if you have any questions.**  
+     _Olá a todos, acabei de enviar os slides da apresentação de hoje por e-mail. Me avise se tiverem dúvidas._
+
+810. **Following up on today’s session, I’d like to schedule a meeting to discuss next steps.**  
+     _Dando seguimento à sessão de hoje, gostaria de agendar uma reunião para discutir os próximos passos._
+
+811. **I’ve prepared a detailed document with all the insights from the presentation. Let me know if you’d like a copy.**  
+     _Preparei um documento detalhado com todos os insights da apresentação. Avise-me se quiser uma cópia._
+
+812. **Based on our discussion today, I’ve outlined an action plan. Please share your thoughts.**  
+     _Com base em nossa discussão hoje, elaborei um plano de ação. Por favor, compartilhem suas opiniões._
+
+813. **Thank you for your valuable inputs during the presentation—I’ll incorporate your suggestions moving forward.**  
+     _Obrigado pelas contribuições valiosas durante a apresentação—incorporarei suas sugestões daqui em diante._
