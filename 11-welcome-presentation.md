@@ -1,7 +1,3 @@
-Parabéns pela contratação! Agora que você está se preparando para uma apresentação para gestores e colegas no seu primeiro dia de trabalho, aqui está uma estrutura em inglês, abrangente e bem organizada, para que você se apresente de forma clara e impactante. Essa apresentação deve durar em torno de **10 a 15 minutos**.
-
----
-
 # First-Day Presentation: Self-Introduction
 
 ### **1. Opening: Greeting and Gratitude**
@@ -110,5 +106,3 @@ Conclude your presentation with positivity and gratitude.
   - **Slide 3**: Your goals for your role at J. Safra Sarasin.
 
 ---
-
-This presentation style ensures you connect with your colleagues, leave a strong impression, and establish yourself as a valuable and approachable team member. Good luck on your new journey!
