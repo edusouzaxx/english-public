@@ -1,7 +1,8 @@
 # First-Day Presentation: Self-Introduction
 
 ### **1. Opening: Greeting and Gratitude**
-- **Start with a friendly tone** and express enthusiasm for being part of the team.
+
+> **Start with a friendly tone** and express enthusiasm for being part of the team.
   
 - Good morning, everyone. 
 - First, I’d like to thank you for the welcome.
