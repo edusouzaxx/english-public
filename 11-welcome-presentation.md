@@ -88,20 +88,21 @@ Set expectations about how you work and collaborate with others.
 ---
 
 ### **7. Open for Questions or Discussions**
-Create space for your colleagues to engage with you.
 
 > “That’s a little about me, my career path, and what I hope to bring to the team.  
-> I’d love to hear from you and your perspectives—how I can make the transition smoother, where the team feels my skills can add the most value, or any advice you might have for starting well in this role.  
-> Thank you for your time, and I’m looking forward to working with all of you.”
+> I’d love to hear from you and your perspectives—how I can make the transition smoother, 
+> where the team feels my skills can add the most value, 
+> or any advice you might have for starting well in this role.  
+> Thank you for your time, 
+> and I’m looking forward to working with all of you.”
 
 ---
 
 ### **8. Closing**
-Conclude your presentation with positivity and gratitude.
 
 > Once again, thank you for the welcome and for trusting me with this opportunity. 
 > I’m excited to get started, contribute to our projects, and learn from all of you. 
-> Here’s to a successful journey ahead together.”
+> I hope we have a successful journey together.
 
 ---
 
