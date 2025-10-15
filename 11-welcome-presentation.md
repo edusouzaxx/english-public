@@ -3,12 +3,12 @@
 ### **1. Opening: Greeting and Gratitude**
 - **Start with a friendly tone** and express enthusiasm for being part of the team.
   
-Good morning, everyone.  <br>
-First, I’d like to thank you for the welcome. <br>
-I also want to thank everyone who supported me throughout the hiring process, Javier, Celine, Daniel, Cristoph. <br>
-As well as anyone else involved that I haven't met yet. <br>
-I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter in my life and career.  <br>
-I look forward to start contributing to our projects and learning from all of you.” <br>
+- Good morning, everyone. 
+- First, I’d like to thank you for the welcome.
+- I also want to thank everyone who supported me throughout the hiring process, Javier, Celine, Daniel, Cristoph.
+- As well as anyone else involved that I haven't met yet.
+- I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter in my life and career. 
+- I look forward to start contributing to our projects and learning from all of you.”
 
 
 ---
