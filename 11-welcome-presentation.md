@@ -41,12 +41,11 @@
 
 > **Tips:**
 
-> 1. My career has been almost entirely built within the banking industry.<br><br>
+> 1. My career has been almost entirely built within the banking industry.<br>
 
-> 2. Early in my career, I worked with banking automation, <br>
-> on the installation and maintenance of systems and equipment for bank branches.<br>  
-> This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.<br>
-> And how important stable systems are to them<br><br>
+> 2. Early in my career, I worked with banking automation on the installation and maintenance of systems and equipment for bank branches.
+> This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.
+> And how important stable systems are to them.<br>
 
 > 3. After that, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc,
 > as well as it's operating systems like Linux, AIX, and Solaris. 
