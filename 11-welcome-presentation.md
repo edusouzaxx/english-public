@@ -4,7 +4,7 @@
 - **Start with a friendly tone** and express enthusiasm for being part of the team.
   
 > “Good morning everyone,  
-> First, I’d like to thank you for this warm welcome. I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter. I look forward to contributing to the success of our initiatives and learning from all of you.”
+> First, I’d like to thank you for this welcome. I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter. I look forward to contributing to the success of our initiatives and learning from all of you.”
 
 ---
 
