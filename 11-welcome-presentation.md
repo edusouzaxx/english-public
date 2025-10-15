@@ -3,38 +3,61 @@
 ### **1. Opening: Greeting and Gratitude**
 - **Start with a friendly tone** and express enthusiasm for being part of the team.
   
-> “Good morning everyone,  
-> First, I’d like to thank you for this welcome. I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter. I look forward to contributing to the success of our initiatives and learning from all of you.”
+> Good morning, everyone. 
+> First, I’d like to thank you for the welcome.
+> I also want to thank everyone who supported me throughout the hiring process, Javier, Celine, Daniel, Cristoph.
+> As well as anyone else involved that I haven't met yet.
+> I’m truly excited about joining the J. Safra Sarasin team and beginning this new chapter in my life and career. 
+> I look forward to start contributing to our projects and learning from all of you.”
 
 ---
 
 ### **2. Personal Introduction**
-- Share a little about your personal side to build rapport and help them relate to you.
 
-> “My name is Eduardo.  
-> I’m 45 years old, married, and a proud father of three daughters. I was born and raised in Brazil, where I’ve built my career in technology.  
-> Besides work, one of my passions is running, and I was already delighted to experience Basel on one of my runs. It's truly a stunning city, and I’m grateful for the opportunity to be here and get started with this team.”
+> My name is Eduardo 
+> I'm from Brazil.
+> I'm 45 years old.
+> I'm married.
+> I'm a father of three daughters. 
+> I'm an IT professional with over 25 years of experience.
 
----
-
-### **3. Academic and Professional Background**
-#### Summarize your qualifications and career path in a relevant and concise manner.
-  
-> **Education**:  
-> “In terms of education, I have a Bachelor’s degree in Systems Analysis, as well as postgraduate specializations in Computer Networks and Java Programming. Learning has always been a passion of mine, and continuing to improve my skills remains a personal goal.”
-
-> **Career Progression**:
-> - “I’ve been working in IT for over 25 years, primarily in the **banking industry**, which has truly shaped my expertise. My journey started with **banking automation**—installing and maintaining systems at bank branches. This hands-on experience gave me a solid understanding of the operational challenges faced on the ground.”
-> - “As my career progressed, I transitioned to managing **high-performance computing environments**, working with platforms like UNIX (Linux, AIX, Solaris) and IBM Power systems. This was a pivotal stage where I developed the strong foundations for infrastructure, reliability, and operational efficiency.”
-> - “In the past **six years**, I have specialized in **cloud-native technologies and container processing**, particularly Kubernetes platforms like OpenShift, Rancher, and managed platforms such as Azure Kubernetes Service and Google GKE. These experiences allowed me to design scalable, secure systems that meet business and operational needs.”
-> - “In my last role, I became one of the **technical specialists for containerized environments**, with responsibilities ranging from defining architectures to incident management. I also worked directly with management to align technical efforts with business goals.”
 
 ---
 
-### **4. Achievements and Expertise**
-Highlight achievements that resonate with your role at J. Safra Sarasin.
+### **3. Academic Background**
 
-> **Achievements**:
+> Regarding my academic background, 
+> I have a Bachelor's degree in Systems Analysis 
+> And I also have two postgraduate specializations in Computer Networks and Java Programming 
+> despite not having worked directly in these areas
+
+
+### **4. Career Path**
+
+> My career has been almost entirely built within the banking industry. 
+
+> Early in my career, I worked with banking automation, 
+> on the installation and maintenance of systems and equipment for bank branches.  
+> This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.
+> And how important stable systems are to them
+
+> After that, 
+> I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc,
+> as well as it's operating systems like Linux, AIX, and Solaris. 
+
+> For the past six or seven years, I've been working with cloud-native technologies
+> Mainly with container processing platforms, like OpenShift, Rancher,  
+> and related technologies, tools and infrastructure,
+> as well as managed services on cloud providers , like Microsoft Azure and Google Cloud Platform.
+
+> Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as one of the company's technical points of reference in this domain. 
+> My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
+> I am fequently involved in incident resolution and crisis management. 
+> I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
+
+
+### **5. Achievements**
+
 > - “One of my most significant career achievements was creating a containerized processing environment from scratch that now runs critical workloads like instant payments (PIX), intranet services, and microservices for thousands of developers. It’s considered one of the most mature and robust Kubernetes environments by experts at Red Hat.”
 > - “Another milestone was designing and implementing a **centralized monitoring system** with Grafana and Prometheus, reducing incident resolution times significantly and improving operational efficiency.”
 
@@ -76,7 +99,9 @@ Create space for your colleagues to engage with you.
 ### **8. Closing**
 Conclude your presentation with positivity and gratitude.
 
-> “Once again, thank you for the warm welcome and for trusting me with this opportunity. I’m excited to get started, contribute to our projects, and learn from all of you. Here’s to a successful journey ahead together.”
+> Once again, thank you for the welcome and for trusting me with this opportunity. 
+> I’m excited to get started, contribute to our projects, and learn from all of you. 
+> Here’s to a successful journey ahead together.”
 
 ---
 
