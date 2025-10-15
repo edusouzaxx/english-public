@@ -41,29 +41,25 @@
 
 > **Tips:**
 
-> 1. My career has been almost entirely built within the banking industry.<br>
+- My career has been almost entirely built within the banking industry.<br>
 
-> 2. Early in my career, I worked with banking automation on the installation and maintenance of systems and equipment for bank branches.
-> This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.
-> And how important stable systems are to them.<br>
+- Early in my career, I worked with banking automation on the installation and maintenance of systems and equipment for bank branches.This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business nnd how important stable systems are to them.<
 
-> 3. After that, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc,
-> as well as it's operating systems like Linux, AIX, and Solaris. 
+- After that, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc, as well as it's operating systems like Linux, AIX, and Solaris. 
 
-> 4.  the past six or seven years, I've been working with cloud-native technologies
-> Mainly with container processing platforms, like OpenShift, Rancher,  
-> and related technologies, tools and infrastructure,
-> as well as managed services on cloud providers , like Microsoft Azure and Google Cloud Platform.
+- For the past six or seven years, I've been working with cloud-native technologies, mainly with container processing platforms and related technologies and tools ,like OpenShift and Rancher, as well as managed services on cloud providers , like Azure Kurbernetes Service and Google Kubernetes Engine.
 
-> 5. Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as one of the company's technical points of reference in this domain. 
-> My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
-> I am fequently involved in incident resolution and crisis management. 
-> I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
+- I also have some experience with automation and IaC Tools like Ansible, Terraform and Gitops pipelines.
+  
+- My primary responsibilities were defining, supporting, and enhancing container-based processing architectures, as well as incident resolution and crisis management. 
+  
+- I also worked closely with managers and other teams to plan and prioritize initiatives to drive value and align with business strategy.
+
 
 
 ### **5. Achievements**
 
-> - “One of my most significant career achievements was creating a containerized processing environment from scratch that now runs critical workloads like instant payments (PIX), intranet services, and microservices for thousands of developers. It’s considered one of the most mature and robust Kubernetes environments by experts at Red Hat.”
+> - “One of my most significant career achievements was creating a containerized processing environment from scratch using open source tools,  that runs critical workloads like instant payments (PIX), intranet services, and microservices for thousands of developers. It’s considered one of the most mature and robust Kubernetes environments by experts at Red Hat.”
 > - “Another milestone was designing and implementing a **centralized monitoring system** with Grafana and Prometheus, reducing incident resolution times significantly and improving operational efficiency.”
 
 > **Technical Strengths**:  
