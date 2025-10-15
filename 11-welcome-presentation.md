@@ -41,25 +41,25 @@
 
 > **Tips:**
 
-> 1. My career has been almost entirely built within the banking industry. 
+- 1. My career has been almost entirely built within the banking industry. 
 
-> 2. Early in my career, I worked with banking automation, 
-> on the installation and maintenance of systems and equipment for bank branches.  
-> This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.
-> And how important stable systems are to them
+- 2. Early in my career, I worked with banking automation, 
+- on the installation and maintenance of systems and equipment for bank branches.  
+- This experience gave me an understanding of the day-to-day operations of those on the front line who are doing business.
+- And how important stable systems are to them
 
-> 3. After that, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc,
-> as well as it's operating systems like Linux, AIX, and Solaris. 
+- 3. After that, I worked for about seven years with High-Performance Computing (HPC), including IBM Power and Oracle Sparc,
+- as well as it's operating systems like Linux, AIX, and Solaris. 
 
-> 4.  the past six or seven years, I've been working with cloud-native technologies
-> Mainly with container processing platforms, like OpenShift, Rancher,  
-> and related technologies, tools and infrastructure,
-> as well as managed services on cloud providers , like Microsoft Azure and Google Cloud Platform.
+- 4.  the past six or seven years, I've been working with cloud-native technologies
+- Mainly with container processing platforms, like OpenShift, Rancher,  
+- and related technologies, tools and infrastructure,
+- as well as managed services on cloud providers , like Microsoft Azure and Google Cloud Platform.
 
-> 5. Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as one of the company's technical points of reference in this domain. 
-> My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
-> I am fequently involved in incident resolution and crisis management. 
-> I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
+- 5. Over the past two years, I have taken on the role of Container Processing Infrastructure Specialist, serving as one of the company's technical points of reference in this domain. 
+- My core responsibilities involve defining, supporting, and improving container-based processing architectures. 
+- I am fequently involved in incident resolution and crisis management. 
+- I also work closely with managers to plan and prioritize initiatives, ensuring our tech solutions deliver real value and align with business strategy.
 
 
 ### **5. Achievements**
