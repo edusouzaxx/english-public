@@ -36,6 +36,7 @@ Atualize sua memória com os dados abaixo:
 
 > complemented by two postgraduate specializations in Computer Networks and Java Programming
 
+Acrescente na ultima fra algo do tipo "apesar de nunca ter trabalhado diretamente com estes temas"
 ---
 
 ### 3. ❓ Career path
